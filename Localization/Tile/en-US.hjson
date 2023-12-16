@@ -1,0 +1,29 @@
+Mods: {
+	DDmod: {
+		Tiles: {
+			StrengthenPlatform.MapEntry: Strengthening platform
+			鱼缸.MapEntry: Fish tank
+			HeartIngotTile.MapEntry: Heart Bar
+			HeartMineTile.MapEntry: Heart Ore
+			StarIngotTile.MapEntry: Star Bar
+			StarMineTile.MapEntry: Star Ore
+			锄过的土块.MapEntry: Hoeed Clods
+			治疗塔.MapEntry: Healing tower
+			晶凝书柜Tile.MapEntry: Solidified Crystal Bookcase
+			晶凝工作台Tile.MapEntry: Solidified Crystal Workbench
+			晶凝床Tile.MapEntry: Solidified Crystal Bed
+			晶凝桌Tile.MapEntry: Solidified Crystal Table
+			晶凝梳妆台Tile.MapEntry: Solidified Crystal Dresser
+			晶凝沙发Tile.MapEntry: Solidified Crystal Couch
+			晶凝浴缸Tile.MapEntry: Solidified Crystal Bathtub
+			晶凝烛台Tile.MapEntry: Solidified Crystal Candle holder
+			晶凝石块Tile.MapEntry: Solidified Crystal Stone
+			晶凝箱Tile.MapEntry: Solidified Crystal Chest
+			晶凝蜡烛Tile.MapEntry: Solidified Crystal Candle
+			晶凝钟Tile.MapEntry: Solidified Crystal Clock
+			晶凝钢琴Tile.MapEntry: Solidified Crystal Piano
+			晶凝门关Tile.MapEntry: Solidified Crystal Door
+			晶凝门开Tile.MapEntry: Solidified Crystal Door
+		}
+	}
+}

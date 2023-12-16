@@ -1,0 +1,245 @@
+Mods: {
+	DDmod: {
+		Buffs: {
+			Bleed: {
+				DisplayName: Bleed
+				Description: Bleeding profoundly
+			}
+
+			Charged: {
+				DisplayName: Charged
+				Description: Electrically charged, ouch!
+			}
+
+			Charged2: {
+				DisplayName: Charged
+				Description: Electrically charged, ouch!
+			}
+
+			Damp: {
+				DisplayName: Damp
+				Description: Your clothes are wet
+			}
+
+			EvilEntanglement: {
+				DisplayName: Evil entanglement
+				Description: The forces of evil erode your life
+			}
+
+			Exposed: {
+				DisplayName: Exposed
+				Description: Darkness rejects you temporarily
+			}
+
+			Fossil: {
+				DisplayName: Fossil
+				Description: You've become a fossil
+			}
+
+			Freeze: {
+				DisplayName: Freeze
+				Description: You've become an ice sculpture
+			}
+
+			Frozen: {
+				DisplayName: Frozen
+				Description: You feel slow to move
+			}
+
+			SpecialAttackCD: {
+				DisplayName: Special Attack Cooldown
+				Description: Your special attack is on cooldown!
+			}
+
+			AcornMarker: {
+				DisplayName: Acorn Marker
+				Description: Look at that acorn do a backflip!
+			}
+
+			BlessingOfTheHeart: {
+				DisplayName: Blessings of the Heart
+				Description: Life regen is moderately increased
+			}
+
+			CrimsonFury: {
+				DisplayName: Crimson fury
+				Description: 10% increased damage. The life force of your foes replenishes you
+			}
+
+			MagicStar: {
+				DisplayName: Magic Star
+				Description: The stars will fall upon you!
+			}
+
+			MeteorMarker: {
+				DisplayName: Meteor Marker
+				Description: It's raining hell~
+			}
+
+			ServantOfTheHeartBuff: {
+				DisplayName: Servant of the Heart
+				Description: Servants of the Heart will attack enemies near you
+			}
+
+			TerraPower: {
+				DisplayName: Terra Power
+				Description: You overflow with the powers of Terra!
+			}
+
+			TerraPower2: {
+				DisplayName: Terra Power
+				Description: You overflow with the powers of Terra!
+			}
+
+			力量之魂: {
+				DisplayName: Soul of Power
+				Description: ""
+			}
+
+			地狱之火: {
+				DisplayName: Hellfire
+				Description: Inflicted with the fires of the hell
+			}
+
+			炼狱之火: {
+				DisplayName: Purgatory Fire
+				Description: The high temperature causes even obsidian to melt
+			}
+
+			狱火爆炸: {
+				DisplayName: Hellfire Exploded
+				Description: Crispy and tasty!
+			}
+
+			迅捷之力: {
+				DisplayName: The Power of Speed
+				Description: 20% increased movement speed and 10% attack speed
+			}
+
+			食物buff: {
+				DisplayName: Food
+				Description: Yum
+			}
+
+			食物DeBuff: {
+				DisplayName: Food
+				Description: Ew, stinky
+			}
+
+			流星飞行器Buff: {
+				DisplayName: Meteor Aircraft
+				Description: You are standing on a aircraft
+			}
+
+			ChildOfTheStarsBuff: {
+				DisplayName: Sons of the Mana Guardian
+				Description: The Sons of the Mana Guardian are following you
+			}
+
+			Devil_SlimeBuff: {
+				DisplayName: Devil Slime
+				Description: This is a slime
+			}
+
+			SmallMeteorDiggerBuff: {
+				DisplayName: Small Meteor Digger
+				Description: The drill on his head seems to be malfunctioning
+			}
+
+			SonOfTheLifeGuardBuff: {
+				DisplayName: Sons of the Life Guardian
+				Description: The Sons of the Life Guardian are following you
+			}
+
+			狱火蛇之子Buff: {
+				DisplayName: Son of the Serpent of Hellfire
+				Description: This little guy has taken you as his leader
+			}
+
+			stupidCatSlimeBuff: {
+				DisplayName: Stupid cat Slime
+				Description: Stupid cat!
+			}
+
+			SycamoreBunnySlimeBuff: {
+				DisplayName: Sycamore Bunny Slime
+				Description: This slime wholehearthly carried the creation of all the music in this mod!
+			}
+
+			TairitsuSlimeBuff: {
+				DisplayName: Tairitsu Slime
+				Description: ""
+			}
+
+			AcornSpiritBuff: {
+				DisplayName: Acorn Spirit
+				Description: Just your average acorn in Terra, be glad it doesn't say 'Hey! listen!' every four seconds
+			}
+
+			BloodWormBuff: {
+				DisplayName: Blood worm
+				Description: Don't worry, he won't bite you... Hopefully
+			}
+
+			CopperSwordBuff: {
+				DisplayName: Copper Sword
+				Description: This distuingished gentleman will attack enemies around you
+			}
+
+			EaterOfCorrosionBuff: {
+				DisplayName: Devourer of Souls
+				Description: Corrupt, gnaw, taint!
+			}
+
+			IronSpikeBallBuff: {
+				DisplayName: Iron Spike Ball
+				Description: Portable meat tenderizer!
+			}
+
+			LeadSpikeBallBuff: {
+				DisplayName: Lead Spike Ball
+				Description: Effective for radiation treatment... And also to give lead poisoning to your foes!
+			}
+
+			LeafCrystalBuff: {
+				DisplayName: Leaf Crystal
+				Description: A powerful crystal forged by the Forest with the souls of those who fell in its sacred ground
+			}
+
+			MagicStarBuff: {
+				DisplayName: Magic Servant
+				Description: The servants of the Star Guard are at your command
+			}
+
+			MeteorFighterBuff: {
+				DisplayName: Meteor Fighter
+				Description: You control him with your will... Or is he controlling you with his will?...
+			}
+
+			MeteorYshapedDroneBuff: {
+				DisplayName: Meteor Y-shaped drone
+				Description: He controls you with his will
+			}
+
+			ShadowImpBuff: {
+				DisplayName: Shadow Imp
+				Description: This infernal imp infused with shadowflame is at your command
+			}
+
+			ShadowSkullBuff: {
+				DisplayName: Shadowflame Skull
+				Description: This flaming creature once belonging to a goblin warlock is now at your command
+			}
+
+			TinSwordBuff: {
+				DisplayName: Tin Sword
+				Description: Basically Copper Sword's drunk brother
+			}
+
+			神庙探针Buff: {
+				DisplayName: Temple probes
+				Description: Auto turrets forged by Lizarhrds with the essence of the Ancient forces which once ruled the Jungle
+			}
+		}
+	}
+}

@@ -1,0 +1,1793 @@
+Mods: {
+	DDmod: {
+		Items: {
+			VampiricArrowItem: {
+				DisplayName: Vampiric Arrow
+				Tooltip: Has a chance to steal health from foes
+			}
+
+			MeteorHood: {
+				DisplayName: Meteor Hood
+				Tooltip:
+					'''
+					Increases summon damage by 5%
+					Increases your max number of minions by 1
+					'''
+			}
+
+			GuardianOfTheHeart: {
+				DisplayName: Life Guardian's Blessing
+				Tooltip:
+					'''
+					Summons life servants to protect you
+					Moderately increases life regen after being hit
+					Increases max life by 25
+					'''
+			}
+
+			HeartBow: {
+				DisplayName: Heart Bow
+				Tooltip:
+					'''
+					Converts wooden arrows into heart arrows
+					Heart arrows have a chance to explode into 4-7 tiny hearts
+					'''
+			}
+
+			HeartStaffItem: {
+				DisplayName: Heart Staff
+				Tooltip: Hits on foes have a high chance to grant Blessed Life
+			}
+
+			HeartSword: {
+				DisplayName: Heart Sword
+				Tooltip:
+					'''
+					True melee hits always grant Blessed heart
+					They also have a chance to explode into seeking hearts that heal players
+					'''
+			}
+
+			HeartWhipItem: {
+				DisplayName: Heart Whip
+				Tooltip:
+					'''
+					Your summons will focus struck enemies
+					Strike foes to grant yourself Blessed Heart
+					Struck foes hit by summons will release seeking hearts that heal players
+					'''
+			}
+
+			LifeAmulet: {
+				DisplayName: Life Amulet
+				Tooltip: Summons the Life Guardian's heir to follow you
+			}
+
+			LifeGuardMask: {
+				DisplayName: Life Guardian Mask
+				Tooltip: ""
+			}
+
+			LifeGuardRelic: {
+				DisplayName: Life Guardian Relic
+				Tooltip: ""
+			}
+
+			LifeGuardTreasureBag: {
+				DisplayName: Treasure Bag (Life Guardian)
+				Tooltip: Right Click to open
+			}
+
+			LifeGuardTrophyItem: {
+				DisplayName: Life Guardian Trophy
+				Tooltip: ""
+			}
+
+			SuspiciousHeartStone: {
+				DisplayName: Suspicious Looking Life Crystal
+				Tooltip: Summons the Life Guardian
+			}
+
+			哈迪斯之刃物品: {
+				DisplayName: Haste of Hades
+				Tooltip: ""
+			}
+
+			奇怪的控制器: {
+				DisplayName: Strange controller
+				Tooltip:
+					'''
+					Weird... This controller
+					Not consumable
+					'''
+			}
+
+			流星Y形无人机控制器: {
+				DisplayName: Meteor Y-shaped drone controller
+				Tooltip: Summon a Y-shaped drone to destroy your enemies
+			}
+
+			流星冲刺翼: {
+				DisplayName: Meteor Dash Wing
+				Tooltip:
+					'''
+					Basic flight is not provided, but gliding is possible
+					As an upside, you can now dash
+					Every five seconds, missiles get expeled from your wing's automatic defense system
+					If you dash after the missiles got expulsed, you will dash further
+					When your dash is on cooldown you will see heat coming out of your wings
+					'23 liters of LCL are consumed by these wings per mile'
+					'''
+			}
+
+			流星歼灭者圣物: {
+				DisplayName: Meteor Annihilator Relic
+				Tooltip: ""
+			}
+
+			流星歼灭者纪念章: {
+				DisplayName: Meteor Annihilator Trophy
+				Tooltip: ""
+			}
+
+			流星箱: {
+				DisplayName: 流星箱(Meteor Annihilator)
+				Tooltip: ""
+			}
+
+			流星遥控手环: {
+				DisplayName: Meteor Control Bracelet
+				Tooltip:
+					'''
+					Summons a rideable meteor aircraft 
+					'This bad boy can reach velocities equaling even those ol' farts you see down street, isn't that a bargain!'
+					'''
+			}
+
+			流星飞盘物品: {
+				DisplayName: Meteor Frisbee
+				Tooltip: ""
+			}
+
+			AlienRigController: {
+				DisplayName: Alien Rig Controller
+				Tooltip:
+					'''
+					Looks like a controller for something, but there’s only one button
+					Not consumable
+					'''
+			}
+
+			A: {
+				DisplayName: A
+				Tooltip: ""
+			}
+
+			流星掘地者圣物: {
+				DisplayName: Meteor Excavator Relic
+				Tooltip: ""
+			}
+
+			DrillingTool: {
+				DisplayName: Drilling Tool
+				Tooltip: Pickaxe distance increased by 5 blocks and mining speed increased by 30%
+			}
+
+			LargeMechanicalScrap: {
+				DisplayName: Large Mechanical scrap
+				Tooltip:
+					'''
+					Large chunks of metalic scrap dropped by the Meteor Excavator
+					Forged in space by unknown entities, this metal was, and still is, perfect for weaponry
+					'''
+			}
+
+			MeteorDiggerMask: {
+				DisplayName: Meteor Excavator Mask
+				Tooltip: ""
+			}
+
+			MeteorDiggerTrophyItem: {
+				DisplayName: Meteor Excavator Trophy
+				Tooltip: ""
+			}
+
+			MeteorExcavatorRemoteControl: {
+				DisplayName: Meteor Excavator Controller
+				Tooltip:
+					'''
+					Summon a miniature Meteor Excavator equipped with a sturdy drill capable of mining Hellstone.
+					Hold Left Click for releasing and controlling your Excavator™
+					While holding Left Click you can hold Right Click to excavate slowly
+					'Excavator™ has limited fuel due to our inability to explore into quantum physics, remember to ALWAYS retrieve your Excavator™;
+					Otherwise, your machine will, unfortunately, [REDACTED] and cause irreversible damage to the fabric of spacetime.
+					.
+					DISCLAIMER:
+					THE RETAILER, DISTRIBUTOR, AND MANUFACTURER OF EXCAVATOR™ ARE NOT LIABLE FOR ANY DAMAGES, INJURIES, 
+					OR CONSEQUENCES RESULTING FROM THE USE, MISUSE, OR MALFUNCTION OF THE EXCAVATOR™. 
+					USERS ARE RESPONSIBLE FOR PROPER MAINTENANCE, ADHERENCE TO SAFETY PROTOCOLS, 
+					AND COMPLIANCE WITH ALL RELEVANT REGULATIONS'
+					'''
+			}
+
+			MeteorLaserGunItem: {
+				DisplayName: Meteorite Blaster
+				Tooltip: After succesfully firing three green lasers in a row, a green beam is fired
+			}
+
+			MeteorRifleItem: {
+				DisplayName: Meteorite Rifle
+				Tooltip: Every 1 second that the rifle is fired a green laser will shoot as well
+			}
+
+			MeteorShortSwordItem: {
+				DisplayName: Meteorite Shortsword
+				Tooltip: ""
+			}
+
+			MeteorToolbox: {
+				DisplayName: Toolbox (Meteor Excavator)
+				Tooltip: ""
+			}
+
+			MeteorWhipItem: {
+				DisplayName: Meteor Whip
+				Tooltip:
+					'''
+					Your summons will focus struck enemies
+					After striking a foe, mark the enemy and set it on fire
+					Struck foes hit by summons will make your minions deal 10% increased damage to the target
+					'''
+			}
+
+			SlightlyDamagedCore: {
+				DisplayName: Damaged Excavator Core
+				Tooltip:
+					'''
+					Summons a minia Meteor Digger
+					On the backside of the core you can read the following:
+					'Not suitable for children under 3 years'
+					'''
+			}
+
+			枯萎橡果炮: {
+				DisplayName: Blight acorn cannon
+				Tooltip: ""
+			}
+
+			GuardianOfTheStar: {
+				DisplayName: Star Guardian's Blessing
+				Tooltip:
+					'''
+					Every once in a while, a magic circle will be generated to protect you
+					Mana cap increased by 40
+					'''
+			}
+
+			MagicStarBowItem: {
+				DisplayName: Mana Star Bow
+				Tooltip:
+					'''
+					Condense a magic pentagram by holding the fire button until the pentagram narrows then release to fire it;
+					When your arrows hits the condensed pentagram your arrows will be copied by 7.
+					Firing before condesing the pentagram only shoots one arrow
+					'''
+			}
+
+			MagicStarStaff: {
+				DisplayName: Star Servant Staff
+				Tooltip: Summon the servants of the Star Guardian to fight for you
+			}
+
+			MagicStarSwordItem: {
+				DisplayName: Mana Star Sword
+				Tooltip: Consumes your mana to shoot a barrage of 2-4 mana star directly to the skull of your foes
+			}
+
+			StarAmulet: {
+				DisplayName: Star Amulet
+				Tooltip: Summons the Star Guardian's heir to watch and observe your skills
+			}
+
+			StarGuardMask: {
+				DisplayName: Star Guardian Mask
+				Tooltip: ""
+			}
+
+			StarguardRelic: {
+				DisplayName: Star Guardian Relic
+				Tooltip: ""
+			}
+
+			StarGuardTreasureBag: {
+				DisplayName: Treasure Bag (Star Guardian)
+				Tooltip: Right Click to open
+			}
+
+			StarguardTrophyItem: {
+				DisplayName: Mana Guardian Trophy
+				Tooltip: ""
+			}
+
+			StarwandItem: {
+				DisplayName: Mana Star Wand
+				Tooltip: ""
+			}
+
+			SuspiciousStarStone: {
+				DisplayName: Suspicious Looking Mana Stone
+				Tooltip:
+					'''
+					Summons the Star Guardian
+					Not consumable
+					'''
+			}
+
+			火蛇卵: {
+				DisplayName: Hellfire Serpent Eggs
+				Tooltip:
+					'''
+					Summons a Hellfire Serpent in Hell by making it think you are holding one of its children
+					'An imitation egg that Hellfire Serpents lay.
+					Might not be apt for consumption'
+					Not consumable
+					'''
+			}
+
+			狱火剑: {
+				DisplayName: Hellfire Sword
+				Tooltip: ""
+			}
+
+			狱火戒: {
+				DisplayName: Hellfire Ring
+				Tooltip:
+					'''
+					Immunity to lava and some high temperature buffs
+					You deal 30% increased damage to foes while in lava
+					If visibility is turned on, standing on the surface of water causes it to turn into obsidian
+					'''
+			}
+
+			狱火晶石: {
+				DisplayName: Hellfire spar
+				Tooltip:
+					'''
+					Summon the Hellfire Serpent Cub
+					'It's looking for its mother'
+					'''
+			}
+
+			狱火杖: {
+				DisplayName: Hellfire Staff
+				Tooltip: ""
+			}
+
+			狱火炮: {
+				DisplayName: Hellcannon
+				Tooltip: ""
+			}
+
+			狱火蛇圣物: {
+				DisplayName: Hellfire Serpent Relic
+				Tooltip: ""
+			}
+
+			狱火蛇宝藏袋: {
+				DisplayName: Treasure Bag (Hellfire Serpent)
+				Tooltip: Right Click to open
+			}
+
+			狱火蛇纪念章物品: {
+				DisplayName: Hellfire Serpent Trophy
+				Tooltip: ""
+			}
+
+			狱火蛇面具: {
+				DisplayName: Hellfire Serpent Mask
+				Tooltip: ""
+			}
+
+			狱火链刃: {
+				DisplayName: Hellfire Chain Blade
+				Tooltip: ""
+			}
+
+			狱火鞭: {
+				DisplayName: Hellfire Whip
+				Tooltip:
+					'''
+					Your summons will focus struck enemies
+					Struck foes hit by summons will cause an explosion
+					'''
+			}
+
+			ShadowBookItem: {
+				DisplayName: Shadowflame Book
+				Tooltip: Hold Left Click to shoot homing shadowflame projectiles
+			}
+
+			BloodStaffItem: {
+				DisplayName: Blood Staff
+				Tooltip:
+					'''
+					Right Click to let the staff ingurgitate on your blood. 
+					The more you let it consume, the more devastation it will cause to your foes
+					'''
+			}
+
+			B: {
+				DisplayName: B
+				Tooltip: ""
+			}
+
+			CorruptionStaffItem: {
+				DisplayName: Corruption Staff
+				Tooltip: "'Shall the essence of the Corrupt feast on those who are obliterated by thy cursed staff!'"
+			}
+
+			C: {
+				DisplayName: C
+				Tooltip: ""
+			}
+
+			FlameStaffItem: {
+				DisplayName: Flame Staff
+				Tooltip: ""
+			}
+
+			HallowedStaffItem: {
+				DisplayName: Hallowed Staff
+				Tooltip: Let there be light!
+			}
+
+			ShadowOfTheDevilItem: {
+				DisplayName: Devil's Shade
+				Tooltip: Throws a Phantom Boomerang which leaves behind two clones when returning to the player
+			}
+
+			叶绿飞刀: {
+				DisplayName: Chlorophyte Flying Knife
+				Tooltip: ""
+			}
+
+			乌木飞刀: {
+				DisplayName: Ebon Wood Flying Knife
+				Tooltip: ""
+			}
+
+			刺草: {
+				DisplayName: Thornweed
+				Tooltip: ""
+			}
+
+			圣刃: {
+				DisplayName: Holy Blade
+				Tooltip: ""
+			}
+
+			夜刃: {
+				DisplayName: Night Blade
+				Tooltip: ""
+			}
+
+			寒霜飞刀: {
+				DisplayName: Ice Flying Knife
+				Tooltip: ""
+			}
+
+			山铜飞刀: {
+				DisplayName: Orichalcum Flying Knife
+				Tooltip: ""
+			}
+
+			星空: {
+				DisplayName: Starry sky
+				Tooltip: ""
+			}
+
+			暗影木飞刀: {
+				DisplayName: Shade Wood Flying Knife
+				Tooltip: ""
+			}
+
+			木制飞刀: {
+				DisplayName: Wood Flying Knife
+				Tooltip: ""
+			}
+
+			棕榈木飞刀: {
+				DisplayName: Palm Wood Flying Knife
+				Tooltip: ""
+			}
+
+			泰拉之锋: {
+				DisplayName: Terra Flying Knife
+				Tooltip: ""
+			}
+
+			流星投刀: {
+				DisplayName: Meteor throwing knife
+				Tooltip: ""
+			}
+
+			烈焰飞刀: {
+				DisplayName: Flaming Flying knives
+				Tooltip: "'That thing was too big to be called a swo- Oh sorry these are knives'"
+			}
+
+			珍珠木飞刀: {
+				DisplayName: Pearl Wood Flying Knife
+				Tooltip: ""
+			}
+
+			真圣刃: {
+				DisplayName: True Holy Blade
+				Tooltip: ""
+			}
+
+			真夜刃: {
+				DisplayName: True Night Blade
+				Tooltip: ""
+			}
+
+			破损英雄飞刀: {
+				DisplayName: Broken hero Flying knives
+				Tooltip: ""
+			}
+
+			秘银飞刀: {
+				DisplayName: Mythril Flying Knife
+				Tooltip: ""
+			}
+
+			精金飞刀: {
+				DisplayName: Adamantite Flying Knife
+				Tooltip: ""
+			}
+
+			红木飞刀: {
+				DisplayName: RichMahogany Flying Knife
+				Tooltip: ""
+			}
+
+			血猩獠牙: {
+				DisplayName: Bloody Tooth
+				Tooltip: I DEMAND blood.
+			}
+
+			远古短刀: {
+				DisplayName: Ancient short knives
+				Tooltip: You feel the bitter and faint touch of the Ancient forces by merely holding these knives
+			}
+
+			金制飞刀: {
+				DisplayName: Gold Flying Knife
+				Tooltip: ""
+			}
+
+			针叶木飞刀: {
+				DisplayName: Borreal Wood Flying Knife
+				Tooltip: ""
+			}
+
+			钛金飞刀: {
+				DisplayName: Titanium Flying Knife
+				Tooltip: ""
+			}
+
+			钨金飞刀: {
+				DisplayName: Tungsten Flying Knife
+				Tooltip: ""
+			}
+
+			钯金飞刀: {
+				DisplayName: Palladium Flying Knife
+				Tooltip: ""
+			}
+
+			钴蓝小刀: {
+				DisplayName: Cobalt penknife
+				Tooltip: ""
+			}
+
+			铁制飞刀: {
+				DisplayName: Iron Flying Knife
+				Tooltip: ""
+			}
+
+			铂金飞刀: {
+				DisplayName: Platinum Flying Knife
+				Tooltip: ""
+			}
+
+			铅制飞刀: {
+				DisplayName: Lead Flying Knife
+				Tooltip: ""
+			}
+
+			铜制飞刀: {
+				DisplayName: Copper Flying Knife
+				Tooltip: ""
+			}
+
+			银制飞刀: {
+				DisplayName: Silver Flying Knife
+				Tooltip: ""
+			}
+
+			锡制飞刀: {
+				DisplayName: Tin Flying Knife
+				Tooltip: ""
+			}
+
+			魔金飞刀: {
+				DisplayName: Fear of Light
+				Tooltip: ""
+			}
+
+			GoblinDaggerItem: {
+				DisplayName: Goblin Dagger
+				Tooltip:
+					'''
+					'Simple daggers are used by the lowest rank of goblins, the thief goblin.
+					Even though they are weak, in numbers they are incredible strong and fast
+					attacking, do not understimate them.'
+					'''
+			}
+
+			ShadowSpearItem: {
+				DisplayName: Shadow Spear
+				Tooltip:
+					'''
+					Three phantom spears are summoned when stabbing forward.
+					Weapon is enhanced at night
+					'The night will lend you his might'
+					'''
+			}
+
+			冈格尼尔: {
+				DisplayName: Gunganir
+				Tooltip: ""
+			}
+
+			木制投矛: {
+				DisplayName: Wooden spear throwing
+				Tooltip: ""
+			}
+
+			AmberSwordItem: {
+				DisplayName: Amber Sword
+				Tooltip: ""
+			}
+
+			AmethystSwordItem: {
+				DisplayName: Amethyst Sword
+				Tooltip: ""
+			}
+
+			CopperBroadSwordAmethyst: {
+				DisplayName: Copper Broadsword: Amethyst
+				Tooltip: ""
+			}
+
+			DiamondSwordItem: {
+				DisplayName: Diamond Sword
+				Tooltip: ""
+			}
+
+			EmeraldSwordItem: {
+				DisplayName: Emerald Sword
+				Tooltip: ""
+			}
+
+			FossilGreatsword: {
+				DisplayName: Fossil Greatsword
+				Tooltip: ""
+			}
+
+			GelSword: {
+				DisplayName: Gel Sword
+				Tooltip: ""
+			}
+
+			GoldBroadswordRuby: {
+				DisplayName: Gold Broadsword: Ruby
+				Tooltip: ""
+			}
+
+			MeteorSword: {
+				DisplayName: Meteorite Sword
+				Tooltip: ""
+			}
+
+			PlatinumBroadswordDiamond: {
+				DisplayName: Platinum Broadsword: Diamond
+				Tooltip: ""
+			}
+
+			RubySwordItem: {
+				DisplayName: Ruby Sword
+				Tooltip: ""
+			}
+
+			SapphireSwordItem: {
+				DisplayName: Sapphire Sword
+				Tooltip: ""
+			}
+
+			SilverBroadswordSapphire: {
+				DisplayName: Silver Broadsword: Sapphire
+				Tooltip: ""
+			}
+
+			TinBroadSwordTopaz: {
+				DisplayName: Tin Broadsword: Topaz
+				Tooltip: ""
+			}
+
+			TopazSwordItem: {
+				DisplayName: Topaz Sword
+				Tooltip: ""
+			}
+
+			TrueBloodButchererItem: {
+				DisplayName: True Blood Butcherer
+				Tooltip: ""
+			}
+
+			TungstenBroadswordEmerald: {
+				DisplayName: Tungsten Broadsword: Emerald
+				Tooltip: ""
+			}
+
+			WoodenBigSword: {
+				DisplayName: Wooden greatsword
+				Tooltip: ""
+			}
+
+			熔岩战斧: {
+				DisplayName: Lava Tomahawk
+				Tooltip: ""
+			}
+
+			GoblinSword: {
+				DisplayName: Goblin Sword
+				Tooltip: "'Goblin warriors... They are truly one of a kind, aren't they?'"
+			}
+
+			ToothOfTheEyeItem: {
+				DisplayName: Tooth of The Eye
+				Tooltip: ""
+			}
+
+			WhiteCutSword: {
+				DisplayName: White Cut Sword
+				Tooltip: ""
+			}
+
+			TachiItem: {
+				DisplayName: Tachi
+				Tooltip: ""
+			}
+
+			超级胡萝卜: {
+				DisplayName: Super carrots
+				Tooltip: ""
+			}
+
+			木锄头: {
+				DisplayName: Wooden hoe
+				Tooltip: Can cultivate the land
+			}
+
+			铁锄头: {
+				DisplayName: Iron hoe
+				Tooltip: Can cultivate the land
+			}
+
+			铅锄头: {
+				DisplayName: Lead hoe
+				Tooltip: Can cultivate the land
+			}
+
+			BlackBow: {
+				DisplayName: Black bow
+				Tooltip: There's some slime on this bow, but overall it's pretty clean, it should be a slime creature thing
+			}
+
+			BlueBow: {
+				DisplayName: Blue bow
+				Tooltip: ""
+			}
+
+			BunnyMusicBox: {
+				DisplayName: Bunny Music Box
+				Tooltip: This music box seems to be only used by his author
+			}
+
+			LavaCrown: {
+				DisplayName: Lava Crown
+				Tooltip: ""
+			}
+
+			CursedGelbow: {
+				DisplayName: Cursed Gel bow
+				Tooltip: ""
+			}
+
+			FireGelbow: {
+				DisplayName: Flaming Gel bow
+				Tooltip: ""
+			}
+
+			FrostBurnGelbow: {
+				DisplayName: Frostburn Gel bow
+				Tooltip: ""
+			}
+
+			Gelbow: {
+				DisplayName: Gel bow
+				Tooltip: Can be ignited with flaming arrows, this will destroy the item after a few seconds
+			}
+
+			仙人掌弓: {
+				DisplayName: Cactus bow
+				Tooltip: ""
+			}
+
+			化石弓: {
+				DisplayName: Fossil bow
+				Tooltip: ""
+			}
+
+			圣弓: {
+				DisplayName: Holy Bow
+				Tooltip: ""
+			}
+
+			手枪2: {
+				DisplayName: Pistol X2
+				Tooltip: ""
+			}
+
+			永夜弓: {
+				DisplayName: Nights bow
+				Tooltip: ""
+			}
+
+			泰拉之锐: {
+				DisplayName: Terra Bow
+				Tooltip: ""
+			}
+
+			真圣弓: {
+				DisplayName: True Holy Bow
+				Tooltip: ""
+			}
+
+			真永夜弓: {
+				DisplayName: True Nights bow
+				Tooltip: ""
+			}
+
+			英雄断弓: {
+				DisplayName: Hero broken bow
+				Tooltip: ""
+			}
+
+			草弓: {
+				DisplayName: Grass bow
+				Tooltip: ""
+			}
+
+			远古弓: {
+				DisplayName: Ancient bow
+				Tooltip: ""
+			}
+
+			迷你鲨2: {
+				DisplayName: Gold Helmet X2
+				Tooltip: ""
+			}
+
+			GoblinBow: {
+				DisplayName: Goblin bow
+				Tooltip: Wooden bows used by goblin tribe archers seem to be rather common.
+			}
+
+			手持大炮: {
+				DisplayName: Armed cannon
+				Tooltip: ""
+			}
+
+			AcornBow: {
+				DisplayName: Acorn bow
+				Tooltip: Arrows have a chance to become acorn arrows
+			}
+
+			AcornBreastplate: {
+				DisplayName: Acorn Breastplate
+				Tooltip: Increases your max number of minions by 1
+			}
+
+			AcornHat: {
+				DisplayName: Acorn Hat
+				Tooltip: 8% increased summon damage
+			}
+
+			AcornHelmet: {
+				DisplayName: Acorn Helmet
+				Tooltip: 5% increased summon damage
+			}
+
+			AcornLeggings: {
+				DisplayName: Acorn Leggings
+				Tooltip: 5% increased movement speed
+			}
+
+			AcornSpiritStaff: {
+				DisplayName: Acorn Spirit Staff
+				Tooltip: Summons an acorn spirit to fight for you
+			}
+
+			AcornStaffItem: {
+				DisplayName: Acorn Staff
+				Tooltip: Shoots an acorn; the acorn will turn into a sapling
+			}
+
+			AcornSword: {
+				DisplayName: Acorn Sword
+				Tooltip: Chance to shoot acorns
+			}
+
+			AcornWhipItem: {
+				DisplayName: Acorn Whip
+				Tooltip:
+					'''
+					Your summons will focus struck enemies
+					Struck foes hit by summons will throw a friendly acorn upwards
+					'''
+			}
+
+			SoulOfNature: {
+				DisplayName: Soul of the Forest
+				Tooltip: One of the many condemned souls of those who have fallen here in the Forest
+			}
+
+			SoulOfWithered: {
+				DisplayName: Soul of Withered
+				Tooltip: ""
+			}
+
+			GlowingMushroomHelm: {
+				DisplayName: Glowing Mushroom Helm
+				Tooltip: Increased mana regeneration speed
+			}
+
+			GlowingMushroomLeggings: {
+				DisplayName: Glowing Mushroom Leggings
+				Tooltip: Increased mana regeneration speed
+			}
+
+			GlowingMushroomShirt: {
+				DisplayName: Glowing Mushroom Shirt
+				Tooltip: Increased mana regeneration speed
+			}
+
+			BrokenHeartBow: {
+				DisplayName: Life Shatterer Bow
+				Tooltip: ""
+			}
+
+			BrokenHeartItem: {
+				DisplayName: Heart Breaker
+				Tooltip: "'Life is frail, yet resilent'"
+			}
+
+			HeartbreakerBreastplate: {
+				DisplayName: Heart Shatter Breastplate
+				Tooltip: 5% increased endurance, slightly increased health regeneration
+			}
+
+			HeartbreakerHelm: {
+				DisplayName: Heart Shatter helmet
+				Tooltip: 5% increased ranged and melee damage and max health cap by 10
+			}
+
+			HeartbreakerLeggings: {
+				DisplayName: Heart Shatter Leggings
+				Tooltip: 5% increased movement speed
+			}
+
+			HeartIngot: {
+				DisplayName: Heart Bar
+				Tooltip: ""
+			}
+
+			HeartMine: {
+				DisplayName: Heart Ore
+				Tooltip: ""
+			}
+
+			ShadowFlame: {
+				DisplayName: Shadowflame
+				Tooltip: The mysterious flame mastered by goblins is stronger than ordinary flames
+			}
+
+			ShadowFlameStaffItem: {
+				DisplayName: Shadowflame Staff
+				Tooltip: ""
+			}
+
+			ShadowFlameSwordItem: {
+				DisplayName: Shadowflame Blade
+				Tooltip: "'Most goblins are stupid and mindless, but those who aren't, are able to make such masterpieces like these.'"
+			}
+
+			ShadowFlowerItem: {
+				DisplayName: Shadow Flower
+				Tooltip: ""
+			}
+
+			ShadowFury: {
+				DisplayName: Shadow Fury
+				Tooltip: Sets your wooden arrows on fire with Shadowfire
+			}
+
+			ShadowImpStaff: {
+				DisplayName: Shadow Imp Staff
+				Tooltip: Summons a shadow imp to fight for you
+			}
+
+			MagicStarBreastplate: {
+				DisplayName: Mana Star Breastplate
+				Tooltip: Increased mana regeneration
+			}
+
+			MagicStarHelmet: {
+				DisplayName: Mana Star Helmet
+				Tooltip:
+					'''
+					Increases your max number of minions by 1
+					7% increased summon and magic damage
+					'''
+			}
+
+			MagicStarShoes: {
+				DisplayName: Mana Star Sneakers
+				Tooltip: 5% increased movement speed and increases mana regeneration while moving
+			}
+
+			MagicStarWhipItem: {
+				DisplayName: Mana Star Whip
+				Tooltip:
+					'''
+					Your summons will focus struck enemies 
+					(Does not do much else)
+					'''
+			}
+
+			StarIngot: {
+				DisplayName: Star Bar
+				Tooltip: ""
+			}
+
+			StarMine: {
+				DisplayName: Star Ore
+				Tooltip: ""
+			}
+
+			StarStaffItem: {
+				DisplayName: Mana Staff
+				Tooltip: ""
+			}
+
+			Exp: {
+				DisplayName: Exp
+				Tooltip: ""
+			}
+
+			凝胶背包: {
+				DisplayName: Gel Backpack
+				Tooltip: ""
+			}
+
+			布袋: {
+				DisplayName: Heart Shatter
+				Tooltip: Can hold a few items
+			}
+
+			抽奖测试: {
+				DisplayName: 抽奖测试
+				Tooltip: ""
+			}
+
+			木盾: {
+				DisplayName: Wooden shield
+				Tooltip:
+					'''
+					10% chance to parry
+					The damage taken after parrying is halved
+					'''
+			}
+
+			生命呼唤: {
+				DisplayName: Forest Wooden Summoning staff
+				Tooltip: There can only be one crystal at a time
+			}
+
+			生命木剑: {
+				DisplayName: Wooden Sword of Life
+				Tooltip: Increases life regeneration when held
+			}
+
+			生命木杖物品: {
+				DisplayName: Forest Wooden Magicwand
+				Tooltip: ""
+			}
+
+			青弦: {
+				DisplayName: Forest Wooden Bow
+				Tooltip: ""
+			}
+
+			StrengtheningStone: {
+				DisplayName: Strengthening Stone (Tier 1)
+				Tooltip: ""
+			}
+
+			StrengtheningStone2: {
+				DisplayName: Strengthening Stone (Tier 2)
+				Tooltip: ""
+			}
+
+			一级矿石箱: {
+				DisplayName: Ore box (Tier 1)
+				Tooltip: ""
+			}
+
+			升级: {
+				DisplayName: UP
+				Tooltip: Level up the adventurer
+			}
+
+			王朝木剑: {
+				DisplayName: Dynasty Sword
+				Tooltip: ""
+			}
+
+			王朝木头盔: {
+				DisplayName: Dynasty helmet
+				Tooltip: ""
+			}
+
+			王朝木弓: {
+				DisplayName: Dynasty bow
+				Tooltip: ""
+			}
+
+			王朝木甲: {
+				DisplayName: Dynasty Cuirass
+				Tooltip: ""
+			}
+
+			王朝木腿甲: {
+				DisplayName: Dynasty Leggings
+				Tooltip: ""
+			}
+
+			王朝木锤: {
+				DisplayName: Dynasty hammer
+				Tooltip: ""
+			}
+
+			Sheet: {
+				DisplayName: Sheet
+				Tooltip: ""
+			}
+
+			BloodWormStaff: {
+				DisplayName: Bloodworm Staff
+				Tooltip: Summons a bloodworm to fight for you
+			}
+
+			BottleCannonItem: {
+				DisplayName: Bottle Cannon
+				Tooltip:
+					'''
+					Summons a bottle cannon to attack your foes
+					'He's from a faraway place, defending the radish!'
+					'''
+			}
+
+			CopperSwordStaff: {
+				DisplayName: Copper Sword Staff
+				Tooltip: Summons a Copper sword to stab your foes
+			}
+
+			DevourerStaff: {
+				DisplayName: Devourer Staff
+				Tooltip: Summons a Corruption Devourer to fight for you
+			}
+
+			FanTowerItem: {
+				DisplayName: Fan tower
+				Tooltip:
+					'''
+					Summons a fan tower to attack your foes
+					'He's from a faraway place, defending the radish!'
+					'''
+			}
+
+			IronSpikeStaff: {
+				DisplayName: Iron Spike Staff
+				Tooltip: ""
+			}
+
+			LeadSpikeStaff: {
+				DisplayName: Lead Spike Staff
+				Tooltip: ""
+			}
+
+			MeteorDroneController: {
+				DisplayName: Meteor Fighter Controller
+				Tooltip: Summons a meteor fighter to fight for you
+			}
+
+			ShadowLantern: {
+				DisplayName: Shadow Lantern
+				Tooltip: Summons a Shadow Skeleton to fight for you
+			}
+
+			TinSwordStaff: {
+				DisplayName: Tin Sword Staff
+				Tooltip: Summons a Tin sword to stab your enemies
+			}
+
+			CozyCabin: {
+				DisplayName: Cozy Cabin
+				Tooltip: Creates a house with a roof, double room
+			}
+
+			FishermanPuppetItem: {
+				DisplayName: Fisherman Puppet
+				Tooltip: ""
+			}
+
+			NOCozyCabin: {
+				DisplayName: NO Cozy Cabin
+				Tooltip: Creates a house without a roof, a single room
+			}
+
+			DeadLeavesSpiritItem: {
+				DisplayName: Withered Leaf Spirit
+				Tooltip: Skill: Slowly heal the player
+			}
+
+			EnchantedVoodooDollItme: {
+				DisplayName: Enchanted Voodoo doll
+				Tooltip:
+					'''
+					Skill: Summon a voodoo doll that will lock onto the foe that you are hovering on with your mouse
+					       Hurting the Voodoo Doll will deal the same damage dealt to it to your enemy
+					'''
+			}
+
+			EyeTeethItme: {
+				DisplayName: Eye Teeth
+				Tooltip: Skill: After a short buffer, dash a set amount to the mouse position and deal enormous damage to foes
+			}
+
+			GhostFireLanternItem: {
+				DisplayName: Ghost Fire Lantern
+				Tooltip: Skill: Summon a lantern that will follow your mouse to illuminate and damage foes
+			}
+
+			HunyuanPearlUmbrellaItem: {
+				DisplayName: Hunyuan Parasol
+				Tooltip: Skill: Summon a shield to protect you, this shield protects you until its hitpoints reach zero
+			}
+
+			LegendaryGelItem: {
+				DisplayName: Legendary Gel
+				Tooltip: Skill: Gain the ability to step on monsters
+			}
+
+			MiniSlimeCrownItme: {
+				DisplayName: Mini Slime Crown
+				Tooltip:
+					'''
+					Skill: A clone of the King Slime will appear when you press the skill keybind while airbone.
+					       This clone will make you fall quickly and deal high damage to foes you fall on.
+					       The clone will also linger for a while dealing moderate contact damage to enemies
+					'''
+			}
+
+			ShadowNecklaceItem: {
+				DisplayName: Shadow Necklace
+				Tooltip:
+					'''
+					Skill: Leave the talisman in place, the talisman will shoot homing shadowflame projectiles at foes.
+					       After 20 seconds or after pressing your skill keybind, you will instantly appear at its lo-
+					       cation and a burst of 10 homing shadowflame projectiles will be expeled from the necklace
+					'''
+			}
+
+			WoodSpiritSwordItem: {
+				DisplayName: Wood Spirit Sword
+				Tooltip: Skill: Release the sword and then after a moment it will come back, you can stand on the sword
+			}
+
+			地狱葫芦: {
+				DisplayName: Hell Gourd
+				Tooltip: Skill: Teleport the Talisman near the mouse and spray a wall of flames towards the mouse position
+			}
+
+			奇异的云: {
+				DisplayName: Bizarre clouds
+				Tooltip: Skill: Summon a cloud at the bottom of your feet that you can step on
+			}
+
+			永恒冰晶: {
+				DisplayName: Eternal Ice Crystals
+				Tooltip: Skill: Spawn a freezing field at the mouse position, this does not deal damage
+			}
+
+			玉净瓶: {
+				DisplayName: Purifying Bottles
+				Tooltip: Skill: Purifies most of the player's debuffs, heals the player's health and regenerates mana (quadrupled mana recovery)
+			}
+
+			StrengthenPlatformItem: {
+				DisplayName: Strengthen Platform
+				Tooltip: ""
+			}
+
+			晶凝书柜: {
+				DisplayName: Solidified crystal Bookcases
+				Tooltip: ""
+			}
+
+			晶凝吊灯: {
+				DisplayName: Solidified crystal Chandelier
+				Tooltip: ""
+			}
+
+			晶凝工作台: {
+				DisplayName: Solidified crystal Work Bench
+				Tooltip: ""
+			}
+
+			晶凝平台: {
+				DisplayName: Solidified crystal Platform
+				Tooltip: ""
+			}
+
+			晶凝床: {
+				DisplayName: Solidified crystal bed
+				Tooltip: ""
+			}
+
+			晶凝心灯: {
+				DisplayName: Solidified crystal Heart lamp
+				Tooltip: ""
+			}
+
+			晶凝桌: {
+				DisplayName: Solidified crystal Table
+				Tooltip: ""
+			}
+
+			晶凝梳妆台: {
+				DisplayName: Solidified crystal Dresser
+				Tooltip: ""
+			}
+
+			晶凝椅: {
+				DisplayName: Solidified crystal bed
+				Tooltip: ""
+			}
+
+			晶凝水槽: {
+				DisplayName: Solidified crystal sink
+				Tooltip: ""
+			}
+
+			晶凝沙发: {
+				DisplayName: Solidified crystal Sofa
+				Tooltip: ""
+			}
+
+			晶凝浴缸: {
+				DisplayName: Solidified crystal bathtub
+				Tooltip: ""
+			}
+
+			晶凝灯笼: {
+				DisplayName: Solidified crystal Lantern
+				Tooltip: ""
+			}
+
+			晶凝烛台: {
+				DisplayName: Solidified crystal Candelabra
+				Tooltip: ""
+			}
+
+			晶凝石块: {
+				DisplayName: Solidified crystal Stones
+				Tooltip: ""
+			}
+
+			晶凝箱: {
+				DisplayName: Solidified crystal Chest
+				Tooltip: ""
+			}
+
+			晶凝蜡烛: {
+				DisplayName: Solidified crystal Candle
+				Tooltip: ""
+			}
+
+			晶凝钟: {
+				DisplayName: Solidified crystal Clock
+				Tooltip: ""
+			}
+
+			晶凝钢琴: {
+				DisplayName: Solidified crystal Piano
+				Tooltip: ""
+			}
+
+			晶凝门: {
+				DisplayName: Solidified crystal Door
+				Tooltip: ""
+			}
+
+			晶凝马桶: {
+				DisplayName: Solidified crystal Toilet
+				Tooltip: ""
+			}
+
+			木水壶: {
+				DisplayName: Wooden kettle
+				Tooltip: ""
+			}
+
+			铜水壶: {
+				DisplayName: Copper kettle
+				Tooltip: ""
+			}
+
+			锡水壶: {
+				DisplayName: Tin kettle
+				Tooltip: ""
+			}
+
+			铁水壶: {
+				DisplayName: Iron kettle
+				Tooltip: ""
+			}
+
+			铅水壶: {
+				DisplayName: Lead kettle
+				Tooltip: ""
+			}
+
+			银水壶: {
+				DisplayName: Silver kettle
+				Tooltip: ""
+			}
+
+			钨水壶: {
+				DisplayName: Tungsten kettle
+				Tooltip: ""
+			}
+
+			金水壶: {
+				DisplayName: Gold kettle
+				Tooltip: ""
+			}
+
+			铂金水壶: {
+				DisplayName: Platinum kettle
+				Tooltip: ""
+			}
+
+			巨大的胡萝卜种子: {
+				DisplayName: Huge carrot seeds
+				Tooltip: ""
+			}
+
+			玉米种子: {
+				DisplayName: Maize seeds
+				Tooltip: ""
+			}
+
+			玉米: {
+				DisplayName: Maize
+				Tooltip: ""
+			}
+
+			生菜种子: {
+				DisplayName: Lettuce seeds
+				Tooltip: ""
+			}
+
+			生菜: {
+				DisplayName: Lettuce
+				Tooltip: ""
+			}
+
+			胡萝卜种子: {
+				DisplayName: Carrot seeds
+				Tooltip: ""
+			}
+
+			胡萝卜: {
+				DisplayName: Carrot
+				Tooltip: ""
+			}
+
+			草莓种子: {
+				DisplayName: Strawberry seeds
+				Tooltip: ""
+			}
+
+			草莓: {
+				DisplayName: Strawberry
+				Tooltip: ""
+			}
+
+			荧光果种子: {
+				DisplayName: Fluorescent fruit seeds
+				Tooltip: ""
+			}
+
+			荧光果: {
+				DisplayName: Fluorescent fruit
+				Tooltip: ""
+			}
+
+			洞穴萝卜: {
+				DisplayName: Cave turnips
+				Tooltip: ""
+			}
+
+			金胡萝卜: {
+				DisplayName: Gold Carrot
+				Tooltip: ""
+			}
+
+			橡果之灵旗: {
+				DisplayName: Acorn Spirit Banner
+				Tooltip: "{$CommonItemTooltip.BannerBonus}Acorn Spirit"
+			}
+
+			哥布林巫师首领纪念章物品: {
+				DisplayName: Goblin Sorcerer Chieftain Trophy
+				Tooltip: ""
+			}
+
+			哥布林巫师首领面具: {
+				DisplayName: Goblin Sorcerer Chieftain Mask
+				Tooltip: ""
+			}
+
+			哥布林巫师首领圣物: {
+				DisplayName: Goblin Sorcerer Chieftain Relic
+				Tooltip: ""
+			}
+
+			枯萎的橡果之灵纪念章物品: {
+				DisplayName: Withered Acorn Spirit Trophy
+				Tooltip: ""
+			}
+
+			枯萎的橡果之灵面具: {
+				DisplayName: Withered Acorn Spirit Mask
+				Tooltip: ""
+			}
+
+			枯萎的橡果之灵圣物: {
+				DisplayName: Withered Acorn Spirit Relic
+				Tooltip: ""
+			}
+
+			仙人掌之魂: {
+				DisplayName: Cactus Soul
+				Tooltip: The simple essence of what makes an cactus slime function, might have some interesting properties
+			}
+
+			附魔仙人掌剑: {
+				DisplayName: Enchanted Cactus Sword
+				Tooltip: ""
+			}
+
+			附魔仙人掌弓: {
+				DisplayName: Enchanted Cactus bow
+				Tooltip: ""
+			}
+
+			仙人掌杖: {
+				DisplayName: Cactus staff
+				Tooltip: ""
+			}
+
+			海爵之咬: {
+				DisplayName: Sea Lord Bites
+				Tooltip: '''"Legend has it that it was made from the teeth of the original Duke of the Sea"'''
+			}
+
+			石魔弓: {
+				DisplayName: Stone Magic Bow
+				Tooltip: ""
+			}
+
+			石像机器控制器: {
+				DisplayName: Lihzahrd Probe controller
+				Tooltip: Summons a probe to fight for you
+			}
+		}
+
+		# 这是被修改的原版
+		Tooltips: {
+			#流星盔甲
+			MeteorArmor: 9% increased summon or magic damage depending on the current damage type of the weapon you are holding
+			MeteorArmor2: 9% increased summon damage
+			#暗夜套
+			Shadow2: 7% increased attack speed
+			#荆棘法杖
+			NettleBurst:
+				'''
+				When used, a flying magic array is generated on the soles of the feet after a short DDGlow
+				Use the right button to summon thorns at the mouse position to attack
+				'''
+			#魔法导弹
+			MagicMissile:
+				'''
+				Summon one controllable missile, followed by 3 missiles that surround you
+				The right button will let all missiles track the enemy
+				'''
+			#烈焰火鞭
+			Flamelash:
+				'''
+				Summon a controllable fireball, followed by 3 fireballs surrounding the mouse
+				The center fireball disappears or the right button will cause all fireballs to track enemies
+				'''
+			#彩虹法杖
+			RainbowRod:
+				'''
+				Summon a controllable rainbow beam, followed by 6 rainbow beams that rotate around the player
+				Right-clicking will make all rainbow beams track enemies
+				'''
+			#水晶蛇
+			CrystalSerpent: Summon the Three-Headed Serpent and right-click to shoot an exploding crystal bullet
+			#爬藤怪法杖
+			ClingerStaff: Summon a wall of cursed fire to protect you, right-click to draw a wall of cursed fire at the mouse position
+			#袋子提示
+			Bags: Right Click to open
+			Bags2: Press the smart cursor to quickly view what the bag is holding
+			#抽奖提示
+			抽奖:
+				'''
+				Press the smart cursor to see the probability of the you can get
+				Animations can also be skipped
+				'''
+			#法宝
+			TalismanKey: Use the current equipped talisman
+			Talisman: Can be equipped in the talisman slot
+			Damage: talisman damage
+			Restoration: Life regeneration
+			Resist: Damage resistance
+			RestorationCrit: Doubled life regeneration
+			ResistCrit: Doubled armor
+			TalismanCD: Cooldown
+			TalismanTimes: Skill duration
+			Second: sec
+		}
+
+		ItemArmorSet: {
+			#流星召唤套
+			Meteor: Increases your max number of minions by 2
+			#橡果鞭子套
+			Acorn: Increases defense by 3, 10% increased whip damage, speed and length
+			#橡果召唤套
+			Acorn2:
+				'''
+				Increases defense by 2, 5% increased summon damage, increases your max number of minions by 1
+				and gives you lesser regeneration
+				'''
+			#木套
+			Wood: Increases defense by 1, 3% increased damage and 3% increased movement speed
+			#红木套
+			RichMahogany:
+				'''
+				Increases defense by 3. 
+				Additionally, when in the Jungle: 
+				    Adds an additional 3 defense, 5% damage and 5% movement speed
+				'''
+			#乌木套
+			Ebonwood:
+				'''
+				Increases Defense by 2, 
+				Additionally, when in the Corruption: 
+				    Adds an additional 2 defense, 4% damage and 4% damage Reduction
+				'''
+			#暗影木套
+			Shadewood:
+				'''
+				Increases defense by 2.
+				Additionally, when in the Crimson: 
+				    Adds an additional 2 defense, 6% damage and 2% dodge chance
+				'''
+			#王朝木套
+			王朝木套: Increases defense by 2 and increases attack speed by 10%
+			#针叶木套
+			BorealWood:
+				'''
+				Increases defense by 2. 
+				Additionally, when in the Snow: 
+				    Adds an additional 2 defense and increases attack speed by 5%
+				'''
+			#棕榈木套
+			PalmWood:
+				'''
+				Increases defense by 2, 
+				Additionally, when in the Desert:
+				    Adds an additional 2 defense and increases movement speed by 10%
+				Or when in the Beach:
+				    Increases fishing skills by 15
+				'''
+			#珍珠木套
+			Pearlwood:
+				'''
+				Increases defense by 12
+				Additionally, when in the Hallow:
+				    Adds an additional 10 defense and increases damage by 12%
+				Or when in the Corruption/Crimson:
+					10% increased damage reduction
+				'''
+			#猩红套
+			Crimson:
+				'''
+				Greatly increases the speed of life regeneration
+				If you take damage, you gain a buff for a short time. The buff time is related to damage.
+				During the buff, damage is increased by 10% and can steal the life of nearby enemies
+				'''
+			#暗影套
+			Shadow:
+				'''
+				50% increased Movement Speed and 15% increased Dodge Chance while moving
+				50% increased speed at night
+				'Dark as the night, omnipotent as darkness'
+				'''
+			#紫晶套
+			Amethyst: Amethyst Staff recharges faster and reduces mana cost in half
+			#黄玉套
+			Topaz: Topaz Staff recharges faster and reduces mana cost in half
+			#蓝玉套
+			Sapphire: Sapphire Staff recharges faster and reduces mana cost in half
+			#翡翠套
+			Emerald: Emerald Staff recharges faster and reduces mana cost in half
+			#红玉套
+			Ruby: Ruby Staff recharges faster and reduces mana cost in half
+			#钻石套
+			Diamond: Diamond Staff recharges faster and reduces mana cost in half
+			#琥珀套
+			Amber: Amber Staff recharges faster and reduces mana cost in half
+			#魔星套
+			MagicStar: Increases Max Summon and 25 bonus mana per 200 mana
+			#碎心套
+			HeartBreaker: Increases life by 20. When you attack an enemy, there is a chance to generate a broken heart. Picking it up will restore some health.
+			#荧光蘑菇套
+			GlowingMushroomSet: Increase the max mana by 50 and restore an additional 5 mana points per second
+		}
+
+		ItemTips: {
+			#锤子战斗模式切换
+			BattleMode: battle mode
+			ToolMode: tool mode
+		}
+	}
+}

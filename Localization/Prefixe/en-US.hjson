@@ -1,0 +1,9 @@
+Mods: {
+	DDmod: {
+		Prefixes: {
+			" .DisplayName": ""
+			妈妈.DisplayName: 妈妈
+			����.DisplayName: ����
+		}
+	}
+}

@@ -1,0 +1,307 @@
+Mods: {
+	DDmod: {
+		NPCs: {
+			#生命守卫
+			LifeGuard: {
+				DisplayName: Life Guard : Les
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/SuspiciousHeartStone] summon
+					EntryName: Life Guard : Les
+					DespawnMessage: Try again.
+					EntryName1: Life Guardian - First stage
+					EntryName2: Life Guardian - Second stage
+					EntryName3: Life Guardian - Third phase
+				}
+			}
+
+			LifeServant.DisplayName: Life Servant
+			LifeWarrior.DisplayName: Life Warrior
+
+			#星辰守卫
+			StarGuard: {
+				DisplayName: Mana Guard : Bulan
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/SuspiciousStarStone] summon
+					EntryName: Mana Guard : Bulan
+					DespawnMessage: Try again.
+					EntryName1: Mana Guard - First stage
+					EntryName2: Mana Guard - Second stage
+					EntryName3: Mana Guard - Third phase
+				}
+			}
+
+			ServantOfTheStars.DisplayName: Servant Of The Stars
+
+			#流星歼灭者
+			MeteorAnnihilator: {
+				DisplayName: Meteor Annihilator
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/奇怪的控制器] summon
+					EntryName: Meteor Annihilator
+				}
+			}
+
+			歼灭者导弹.DisplayName: Annihilator Missiles
+			歼灭者导弹2.DisplayName: Annihilator Missiles II
+
+			#流星掘地者
+			MeteorDigger_Head: {
+				DisplayName: Meteor Excavator
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/AlienRigController] summon
+					EntryName: Meteor Excavater
+				}
+			}
+
+			MeteorDigger_Body.DisplayName: Meteor Excavater
+			MeteorDigger_Tail.DisplayName: Meteor Excavater
+			MeteorProbe.DisplayName: Meteor Probe
+
+			#狱火蛇
+			狱火蛇头: {
+				DisplayName: Hellfire Serpent
+
+				BossChecklistIntegration: {
+					SpawnInfo: Use [i:DDmod/火蛇卵] in Hell
+					EntryName: Hellfire Serpent
+				}
+			}
+
+			狱火蛇身.DisplayName: Hellfire Serpent
+			狱火蛇身2.DisplayName: Hellfire Serpent
+			狱火蛇尾.DisplayName: Hellfire Serpent
+			狱火小蛇头.DisplayName: Small Hellfire Serpent
+			狱火小蛇尾.DisplayName: Small Hellfire Serpent
+			狱火小蛇身.DisplayName: Small Hellfire Serpent
+
+			#哥布林巫师首领
+			GoblinSorcererChieftain: {
+				DisplayName: Goblin Sorcerer Chieftain
+
+				BossChecklistIntegration: {
+					SpawnInfo: Defeat the World Eater or the Cthulhu Brain, afterwards, it will spawn at the end of Goblin Invasions
+					EntryName: Goblin Sorcerer Chieftain
+				}
+			}
+
+			#枯萎的橡果之灵
+			WitheredAcornSpirit: {
+				DisplayName: Withered Acorn Spirit
+
+				BossChecklistIntegration: {
+					SpawnInfo: Chance to spawn when cutting trees in the Cementery
+					EntryName: Withered Acorn Spirit
+				}
+			}
+
+			BlackHole.DisplayName: Black Hole
+			Moridor.DisplayName: Moridor
+			ChaosBall.DisplayName: Chaos Ball
+			EnchantedVoodooDollNPC.DisplayName: Enchanted Voodoo Doll
+			FishermanPuppet.DisplayName: Fisherman Puppet
+			AcornSpirit.DisplayName: Acorn Spirit
+			BraveGrassSlime.DisplayName: Brave Grass Slime
+			FlyingBlueSlime.DisplayName: Flying Blue Slime
+			FossilSlime.DisplayName: Fossil Slime
+			GrassSlime.DisplayName: Grass Slime
+			StarSlime.DisplayName: Star Slime
+			僵尸.DisplayName: Zombie
+			恶魔眼.DisplayName: Demon Eye
+
+			HunterSlime: {
+				DisplayName: Hunter Slime
+
+				TownNPCMood: {
+					#真不错
+					Content: I'm feeling pretty good.
+					#无家可归
+					NoHome: You might not believe it since I'm completely made of slime, but I set my house on fire while tinkering with my strengthening platform. Obviously, I couldn't put the fire out, so mind giving me a house?
+					#空间广阔
+					LoveSpace: There's quite a lot of space here, I like it.
+					#离家远
+					FarFromHome: ""
+					#人有点多
+					DislikeCrowded: It's getting a bit crowded and I would like more space for myself, would you kindly?
+					#人太多了
+					HateCrowded: It's FAR too crowded, make some folks woof out of here or else.
+					#喜欢的生态群落
+					LikeBiome: The {BiomeName} puts me in a good mood.
+					#最爱的生态群落
+					LoveBiome: The {BiomeName} it's my favorite place since there are plentiful of wolves, you might not see them but they see you!
+					#讨厌的生态群落
+					DislikeBiome: I hate {BiomeName}, the monsters here all chew on my slimy body like I'm a walking wolf treat. As you might think, it is certainly not nice, so do me a favor and get me out of here.
+					#厌恶的生态群落
+					HateBiome: Why did you bring me to the {BiomeName}... This is one of the WORST biomes you could have me live at; at this point, you might as well just throw me to a pile of fire and watch me become a walking fire blob.
+					#喜欢的npc
+					LikeNPC: "{NPCName} is very nice to me, I really like her."
+					#最爱的npc
+					LoveNPC: I love {NPCName} the most because he knows everything.
+					#讨厌的npc
+					DislikeNPC: "{NPCName}'s flintlock is scary, please don't get me near him and his flintlock, I might burst into flames."
+					#厌恶的npc
+					HateNPC: "{NPCName} is tinkering with explosives all day, please get me as far as possibility, becoming fireworks isn't something I'm very fond of."
+					#公主
+					LikeNPC_Princess: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+					Princess_LovesNPC: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+				}
+			}
+
+			HunterSlime2: {
+				DisplayName: Hunter Slime
+
+				TownNPCMood: {
+					#真不错
+					Content: I'm feeling pretty good.
+					#无家可归
+					NoHome: You might not believe it since I'm completely made of slime, but I set my house on fire while tinkering with my strengthening platform. Obviously, I couldn't put the fire out, so mind giving me a house?
+					#空间广阔
+					LoveSpace: There's quite a lot of space here, I like it.
+					#离家远
+					FarFromHome: ""
+					#人有点多
+					DislikeCrowded: It's getting a bit crowded and I would like more space for myself.
+					#人太多了
+					HateCrowded: It's far too crowded, make some folks woof out of here or else.
+					#喜欢的生态群落
+					LikeBiome: The {BiomeName} puts me in a good mood.
+					#最爱的生态群落
+					LoveBiome: The {BiomeName} it's my favorite place since there are plentiful of wolves, you might not see them but they see you!
+					#讨厌的生态群落
+					DislikeBiome: I hate {BiomeName}, the monsters here all chew on my slimy body like I'm a walking wolf treat. As you might think, it is certainly not nice, so do me a favor and get me out of here.
+					#厌恶的生态群落
+					HateBiome: Why did you bring me to the {BiomeName}... This is one of the WORST biomes you could have me live at; at this point, you might as well just throw me to a pile of fire and watch me become a walking fire blob.
+					#喜欢的npc
+					LikeNPC: "{NPCName} is very nice to me, I really like her."
+					#最爱的npc
+					LoveNPC: I love {NPCName} the most because he knows everything.
+					#讨厌的npc
+					DislikeNPC: "{NPCName}'s flintlock is scary, please don't get me near him and his flintlock, I might burst into flames."
+					#厌恶的npc
+					HateNPC: "{NPCName} is tinkering with explosives all day, please get me as far as possible, becoming fireworks isn't something I'm very fond of."
+					#公主
+					LikeNPC_Princess: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+					Princess_LovesNPC: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+				}
+			}
+
+			冒险家史莱姆: {
+				DisplayName: Adventurer Slime
+
+				TownNPCMood: {
+					#真不错
+					Content: I'm feeling pretty good.
+					#无家可归
+					NoHome: You might not believe it since I'm completely made of slime, but I set my house on fire while tinkering with my strengthening platform. Obviously, I couldn't put the fire out, so mind giving me a house?
+					#空间广阔
+					LoveSpace: There's quite a lot of space here, I like it.
+					#离家远
+					FarFromHome: ""
+					#人有点多
+					DislikeCrowded: It's getting a bit crowded and I would like more space for myself.
+					#人太多了
+					HateCrowded: It's far too crowded, make some folks woof out of here or else.
+					#喜欢的生态群落
+					LikeBiome: The {BiomeName} puts me in a good mood.
+					#最爱的生态群落
+					LoveBiome: The {BiomeName} it's my favorite place since there are plentiful of wolves, you might not see them but they see you!
+					#讨厌的生态群落
+					DislikeBiome: I hate {BiomeName}, the monsters here all chew on my slimy body like I'm a walking wolf treat. As you might think, it is certainly not nice, so do me a favor and get me out of here.
+					#厌恶的生态群落
+					HateBiome: Why did you bring me to the {BiomeName}... This is one of the WORST biomes you could have me live at; at this point, you might as well just throw me to a pile of fire and watch me become a walking fire blob.
+					#喜欢的npc
+					LikeNPC: "{NPCName} is very nice to me, I really like her."
+					#最爱的npc
+					LoveNPC: I love it {NPCName} the most because he knows everything.
+					#讨厌的npc
+					DislikeNPC: "{NPCName}'s flintlock is scary, please don't get me near him and his flintlock, I might burst into flames."
+					#厌恶的npc
+					HateNPC: "{NPCName} is tinkering with explosives all day, please get me as far as possible, becoming fireworks isn't something I'm very fond of."
+					#公主
+					LikeNPC_Princess: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+					Princess_LovesNPC: Although {NPCName} is not as beautiful as Queen Slime in terms of slime aesthetics, she looks wonderful to me.
+				}
+			}
+
+			仙人掌史莱姆.DisplayName: Cactus slime
+		}
+
+		#Boss图鉴
+		NPCBestiary: {
+			#星辰守卫
+			StarGuard: The Guardian of the Stars itself. If you truly aspire to be a powerful mage, shall you proof your worth to this deity through your journey; you will regain your old powers.
+			ServantOfTheStars: Loyal servants of the Guardian of the Stars, they will act according to their master's orders.
+			#大地守卫
+			LifeGuard: The Guardian of Life itself. Should your true ambition be regaining the life that you once lost, you must demonstrate your might to this guardian throughout your journey. Only then shall you reclaim the strength of your former self.
+			LifeServant: Devoted followers of the Guardian of Life, they will execute the commands of their master.
+			LifeWarrior: Once a mere servant now an expert warrior made for killing.
+			#流星掘地者
+			MeteorDigger: Advanced technology from aliens came to Terra with the help of meteorites to break the barrier, the purpose is to mine all the resources of this planet.
+			MeteorProbe: The detectors released by the Meteor Digger will not only attack nearby enemies, but also look for nearby minerals.
+			#流星歼灭者
+			MeteorAnnihilator: Advanced technology from aliens, with the help of meteorites to break the barrier, came to the continent of Terra, with the purpose of monitoring and capturing advanced creatures for research.
+			#狱火蛇
+			狱火蛇:
+				'''
+				The Serpentine Dragon King of ancient times ruled Hell, but because of the powerful existence, they were exterminated, his race was all turned into skeletons, and in order to fight, he burned his body to the extreme
+				As his resentment saved him from death, his resentment infected his people, and he was sealed in the underworld before he could regain his full strength.
+				Until the ancient spirit of light and darkness is released and his soul is resurrected, but he loses himself and wanders in the underworld.
+				'''
+			#哥布林巫师首领
+			GoblinSorcererChieftain: The Chieftain of Goblin Sorcery. His grasp of shadowflame is very strong; due to this power, he can create and close worm holes at will to summon low-rank sorceres. Even though hes powerful, there are stronger members in the Goblin family than him.
+			#小怪
+			AcornSpirit: An acorn which soul once resided in a powerful warrior. They are neutral creatures made by and to protect the Forest, they turn aggresive if you chop down trees near them.
+			StarSlime: A slime which absorbed stars. Unlikely many other slimes, star slimes only appear at night due to them dissapearing at day.
+			#精英怪
+			WitheredAcornSpirit: Amalgamation between human and corrupt souls.
+			#城镇NPC
+			HunterSlime: A slime that is also a hunter. He burnt down his house, a bit silly mayhaps.
+		}
+
+		#Boss对话
+		NPCDialogue: {
+			StarGuard: {
+				#第一阶段
+				Dialogue: As the one to hold sway over the flow of mana in this realm, I am duly impressed.
+				Dialogue2: Shall ye part ways with one of the three chains that doth withhold thy complete magical potential.
+				Dialogue3: If thou dost not fear death, come at me again to try and extricate the remaining chains that one carries. Thou holdest potential; I will await thee.
+				Dialogue4: Maximum mana increased to 100
+				#第二阶段
+				Dialogue5: Once again, thou hast emerged victorious over me. Thy skills are remarkable.
+				Dialogue6: Thou shalt now part ways with the second chain that doth withhold thy magic power.
+				Dialogue7: Hesitate not to contest me anew, shouldst thou crave a confrontation with mine utmost embodiment, and thereby affirm thy worthiness of my power.
+				Dialogue8: Maximum mana increased to 200
+				#第三阶段
+				Dialogue9: Verily magnificent, I am joyously pleased.
+				Dialogue10: Thy dedication hath truly borne fruit. Thou hast proven thyself worthy of my strength. I shall now remove the limit on thy remaining power.
+				Dialogue11: Hmm, indeed. Here be the loot that rightfully belongs to thee. Farewell, young warrior.
+				Dialogue12: Maximum mana increased to 300
+				#第三次之后
+				Dialogue13: ""
+			}
+
+			LifeGuard: {
+				#第一阶段
+				Dialogue: As the Guardian of Life, doth acknowledge the power thou dost possess
+				Dialogue2: I shall remove the restraint confining thy initial life limits. If thy heart doth yearn for greater power, come again to face me.
+				Dialogue3: Anticipate with eagerness the approaching contest that shall be our rematch!
+				Dialogue4: Life cap increased to 200
+				#第二阶段
+				Dialogue5: I am astounded that thou hast once again triumphed over me! Very well, I shall now lift the second limit on thy life.
+				Dialogue6: But dost thou truly believe this to be the zenith of my abilities?
+				Dialogue7: Manifest the might of thy heart and confront me in mine utmost form. I do ardently await the conclusion of this battle.
+				Dialogue8: Life cap increased to 300
+				#第三阶段
+				Dialogue9: You are indeed incredibly strong! Haha!
+				Dialogue10: I haven't endured such agony in my ultimate form for many cycles. Thou bearest a pure heart, and thou art deserving of my rewards.
+				Dialogue11: Continue to thrive with thy final life limits unlocked!
+				Dialogue12: Life cap increased to 400
+				#第三次之后
+				Dialogue13: ""
+			}
+		}
+	}
+}

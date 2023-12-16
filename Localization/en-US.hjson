@@ -1,0 +1,221 @@
+Mods: {
+	DDmod: {
+		Configs: {
+			#客户端配置
+			DDConfigClient: {
+				DisplayName: Config(Only affects the clients)
+
+				ItemID: {
+					Label: Display item ID
+					Tooltip: ""
+				}
+
+				DustLightEffect: {
+					Label: Particle Lighting Visual Effects
+					Tooltip: ""
+				}
+
+				SlashEffect: {
+					Label: slash effect, the initial value is 1
+					Tooltip: ""
+				}
+
+				Head: {
+					Label: Head Look at the mouse
+					Tooltip: ""
+				}
+
+				Somersault: {
+					Label: Disable flip mechanism while holding the UP arrow (↑)
+					Tooltip: ""
+				}
+
+				Swim: {
+					Label: Disable swimming feature
+					Tooltip: ""
+				}
+
+				Action: {
+					Label: Action redo
+					Tooltip: ""
+				}
+
+				ShowWeapons: {
+					Label: Handheld items
+					Tooltip: ""
+				}
+
+				VibrationFrequency: {
+					Label: Vibration Frequency
+					Tooltip: ""
+				}
+
+				Brightness: {
+					Label: Brightness
+					Tooltip: ""
+				}
+
+				EyeProtection: {
+					Label: Eye protection mode brightness
+					Tooltip: ""
+				}
+
+				Delay: {
+					Label: Multiplayer mode shows game delay
+					Tooltip: ""
+				}
+			}
+
+			DDConfigServer: {
+				DisplayName: Config(will affect the server)
+
+				ForceMechanism: {
+					Label: Disables the need to defeat the new added bosses to expand your maximum mana and health
+					Tooltip: ""
+				}
+
+				Staffdamage: {
+					Label: Staff elf damage
+					Tooltip: ""
+				}
+
+				BossAnimation: {
+					Label: Boss animation
+					Tooltip: ""
+				}
+
+				MeleeRework: {
+					Label: Melee rework (Requires the game to restart)
+					Tooltip: ""
+				}
+
+				MagicRework: {
+					Label: Magic rework (Requires the game to restart)
+					Tooltip: ""
+				}
+
+				ItemTime: {
+					Label: Enable the maximum age of an item on the map(Seconds)
+					Tooltip: ""
+				}
+			}
+
+			DDHealthBar: {
+				DisplayName: Health bar configuration (Only affects the client)
+
+				ShowTarget: {
+					Label: Show target on health bar
+					Tooltip: ""
+				}
+
+				ShowPercentage: {
+					Label: Show remaining health percentage on health bar
+					Tooltip: ""
+				}
+
+				ShowLife: {
+					Label: Show actual and max life on health bar
+					Tooltip: ""
+				}
+
+				ShowName: {
+					Label: Display name on health bar
+					Tooltip: ""
+				}
+
+				DamageandDefense: {
+					Label: Show damage and defense on health bar
+					Tooltip: ""
+				}
+
+				Kill: {
+					Label: Death effect
+					Tooltip: ""
+				}
+
+				Text: {
+					Label: Shows the damage received
+					Tooltip: ""
+				}
+			}
+		}
+
+		Config: {
+			ConfigClient: Client Config
+			ConfigServer: Server Config
+			HealthBar: Health Bar Config
+		}
+
+		#世界提示
+		WorldTips: {
+			#心矿
+			HeartMine: A life force emerges from the earth
+			#星矿
+			StarMine: Some stars appeared in the sky
+			#哥布林
+			Goblin: The Goblin Legion gained some kind of power
+			Goblin2: A powerful force is approaching
+		}
+
+		HealthBarText: {
+			Player: Notarget
+			dontTakeDamage: Immune
+		}
+
+		#生态群落名字
+		BiomeName: {
+			GraniteBiome: Granite Biome
+			UnderworldBiome: Underworld Biome
+			SkyBiome: Sky Biome
+		}
+
+		#强化台UI
+		StrengtheningUI: {
+			请放入装备或特殊主材料: Please put in weapons or special main materials
+			装备或特殊主材料不正确: Incorrect weapons or special main materials
+			伤害小于10不予强化: Damage cannot be less than 10
+			强化成功率: Strengthen the success rate
+			特殊主材料合成缺少: Lack of special main material synthesis
+			可以合成: Can be synthesized
+		}
+
+		#按键
+		Keybinds: {
+			使用法宝.DisplayName: Use Talisman
+			展示物品.DisplayName: Show Items
+		}
+
+		#生态群落
+		Biomes: {
+			GraniteBiome: {
+				DisplayName: Granite
+				TownNPCDialogueName: the Granite Biome
+			}
+
+			HallowBiome: {
+				DisplayName: Night Hallow
+				TownNPCDialogueName: the Night Hallow Biome
+			}
+
+			SkyBiome: {
+				DisplayName: Sky
+				TownNPCDialogueName: the Sky Biome
+			}
+
+			UnderworldBiome: {
+				DisplayName: Underworld
+				TownNPCDialogueName: the Underworld Biome
+			}
+
+			农场: {
+				DisplayName: Farm
+				TownNPCDialogueName: the Farm Biome
+			}
+
+			大理石地: {
+				DisplayName: Marbled
+				TownNPCDialogueName: the Marbled Biome
+			}
+		}
+	}
+}

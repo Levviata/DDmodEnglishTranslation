@@ -1,0 +1,67 @@
+Mods: {
+	DDmod: {
+		DrawText: {
+			敬请期待: Not yet open
+			进入: enter
+			选择地图: Select Map
+		}
+
+		Lock: {
+			解锁: Unlocked, find the Hunter slime and go
+			未解锁: Not unlocked
+			草原2: Clear the grassland to unlock
+			草原3: Clear the grassland Center to unlock
+			草原4: Clear the abandoned warehouses to unlock
+			墓地: Hide the level
+			墓地2: Clear the graveyard to unlock
+		}
+
+		Level: {
+			草原: grassland
+			草原2: grassland Center
+			草原3: Abandoned warehouses
+			草原4: End of the grassland
+			墓地: Graveyard
+			墓地2: Graveyard(difficulty)
+		}
+
+		Entrust: {
+			接受委托: Accept the Entrust
+			领取奖励: Claim reward
+			领取成功: Claim successful
+			接受委托成功: Acceptance of the Entrust is successful
+			每日委托: Daily Entrust
+			冒险等级: Adventurer Level
+			未完成: Not done
+			已完成: done
+			失败: fail
+			收集: gather
+			已拥有: possess
+			击杀: Kill
+			已经击杀: Already killed
+			升级条件: Increase the level of adventurers, increase Entrust difficulty and Loot
+		}
+
+		EntrustText: {
+			# {0} displays the amount of the item or enemy
+			# {1} displays an item or enemy
+			
+			物块委托1: We need around {0}{1} for future projects in the village, would you mind getting some for us?
+			物块委托2: We are in urgent need of {0}{1}, when you find these materials please bring them to me.
+			物块委托3: In the last attack, our defenses were damaged a bit, we need {0}{1} to repair some of the village
+			物块委托4: We've been attacked by a group of monsters and need {0}{1} as patching materials, would you kindly fetch us some?
+			材料委托1: We are in need of {1} today, we need {0}, get some for us if you can.
+			材料委托2: We need {1} to create magic items, we need around {0}, we will thank you with loot if you are able to find them.
+			武器委托1: Having backup weapons would be great for future attacks, I need {0}{1}, perhaps you can help?
+			武器委托2: One of my weapons was badly damaged in a recent battle, I heard you could be able to forge {1} for me, you will be compensated well if you are succesful.
+			送击杀委托1: Thanks for your help, here is some loot to compensate.
+			森林击杀委托1: "{0}{1} badly injured our villagers, please get rid of them."
+			森林击杀委托2: I need some samples of {1} corpses, please go and kill {0}.
+			森林击杀委托3: A group of {1} attacked our village, and we missed a few when defending, {0} are only left lurking in the village, could we get some of your help to get rid of them?
+			森林击杀委托4: We found a small group of {1} wandering outside the village, they were around {0}, kill them before they approach the village.
+			森林击杀委托5: Our villagers were attacked by {0}{1} while exploring, please kill of all of the remaining stranders that were following us.
+			#特殊击杀委托
+			特殊委托小粉: Our village needs pink gel to make bouncy explosives for future attacks, around {0} pink slimes should do the trick.
+		}
+	}
+}
