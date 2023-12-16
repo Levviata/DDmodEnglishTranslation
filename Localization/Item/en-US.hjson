@@ -19,8 +19,8 @@ Mods: {
 				DisplayName: Life Guardian's Blessing
 				Tooltip:
 					'''
-					Summons life servants to protect you
-					Moderately increases life regen after being hit
+					Summons life servants to protect you.
+					Moderately increases life regen after being hit.
 					Increases max life by 25
 					'''
 			}
@@ -29,7 +29,7 @@ Mods: {
 				DisplayName: Heart Bow
 				Tooltip:
 					'''
-					Converts wooden arrows into heart arrows
+					Converts wooden arrows into heart arrows.
 					Heart arrows have a chance to explode into 4-7 tiny hearts
 					'''
 			}
@@ -43,7 +43,7 @@ Mods: {
 				DisplayName: Heart Sword
 				Tooltip:
 					'''
-					True melee hits always grant Blessed heart
+					True melee hits always grant Blessed heart.
 					They also have a chance to explode into seeking hearts that heal players
 					'''
 			}
@@ -52,8 +52,8 @@ Mods: {
 				DisplayName: Heart Whip
 				Tooltip:
 					'''
-					Your summons will focus struck enemies
-					Strike foes to grant yourself Blessed Heart
+					Your summons will focus struck enemies.
+					Strike foes to grant yourself Blessed Heart.
 					Struck foes hit by summons will release seeking hearts that heal players
 					'''
 			}
@@ -97,7 +97,7 @@ Mods: {
 				DisplayName: Strange controller
 				Tooltip:
 					'''
-					Weird... This controller
+					A certainly strage controller
 					Not consumable
 					'''
 			}
@@ -111,12 +111,12 @@ Mods: {
 				DisplayName: Meteor Dash Wing
 				Tooltip:
 					'''
-					Basic flight is not provided, but gliding is possible
-					As an upside, you can now dash
-					Every five seconds, missiles get expeled from your wing's automatic defense system
-					If you dash after the missiles got expulsed, you will dash further
+					Basic flight is not provided, but gliding is possible.
+					As an upside, you can now dash.
+					Every five seconds, missiles get expeled from your wing's automatic defense system.
+					If you dash after the missiles got expulsed, you will dash further.
 					When your dash is on cooldown you will see heat coming out of your wings
-					'23 liters of LCL are consumed by these wings per mile'
+					'23 liters of LCL are consumed by these wings per mile.'
 					'''
 			}
 
@@ -137,11 +137,7 @@ Mods: {
 
 			流星遥控手环: {
 				DisplayName: Meteor Control Bracelet
-				Tooltip:
-					'''
-					Summons a rideable meteor aircraft 
-					'This bad boy can reach velocities equaling even those ol' farts you see down street, isn't that a bargain!'
-					'''
+				Tooltip: "Summons a rideable meteor aircraft "
 			}
 
 			流星飞盘物品: {
@@ -177,8 +173,8 @@ Mods: {
 				DisplayName: Large Mechanical scrap
 				Tooltip:
 					'''
-					Large chunks of metalic scrap dropped by the Meteor Excavator
-					Forged in space by unknown entities, this metal was, and still is, perfect for weaponry
+					Large chunks of metalic scrap dropped by the Meteor Excavator.
+					Forged in space by unknown entities, this metal was, and still is, perfect for weaponry.
 					'''
 			}
 
@@ -201,7 +197,6 @@ Mods: {
 					While holding Left Click you can hold Right Click to excavate slowly
 					'Excavator™ has limited fuel due to our inability to explore into quantum physics, remember to ALWAYS retrieve your Excavator™;
 					Otherwise, your machine will, unfortunately, [REDACTED] and cause irreversible damage to the fabric of spacetime.
-					.
 					DISCLAIMER:
 					THE RETAILER, DISTRIBUTOR, AND MANUFACTURER OF EXCAVATOR™ ARE NOT LIABLE FOR ANY DAMAGES, INJURIES, 
 					OR CONSEQUENCES RESULTING FROM THE USE, MISUSE, OR MALFUNCTION OF THE EXCAVATOR™. 
@@ -234,8 +229,8 @@ Mods: {
 				DisplayName: Meteor Whip
 				Tooltip:
 					'''
-					Your summons will focus struck enemies
-					After striking a foe, mark the enemy and set it on fire
+					Your summons will focus struck enemies.
+					After striking a foe, mark the enemy and set it on fire.
 					Struck foes hit by summons will make your minions deal 10% increased damage to the target
 					'''
 			}
@@ -244,9 +239,8 @@ Mods: {
 				DisplayName: Damaged Excavator Core
 				Tooltip:
 					'''
-					Summons a minia Meteor Digger
-					On the backside of the core you can read the following:
-					'Not suitable for children under 3 years'
+					Summons a miniature Meteor Digger
+					'Not suitable for children under 3 years.'
 					'''
 			}
 
@@ -259,7 +253,7 @@ Mods: {
 				DisplayName: Star Guardian's Blessing
 				Tooltip:
 					'''
-					Every once in a while, a magic circle will be generated to protect you
+					Every once in a while, a magic circle will be generated to protect you.
 					Mana cap increased by 40
 					'''
 			}
@@ -268,7 +262,7 @@ Mods: {
 				DisplayName: Mana Star Bow
 				Tooltip:
 					'''
-					Condense a magic pentagram by holding the fire button until the pentagram narrows then release to fire it;
+					Condense a magic pentagram by holding the fire button until the pentagram narrows then release to fire it.
 					When your arrows hits the condensed pentagram your arrows will be copied by 7.
 					Firing before condesing the pentagram only shoots one arrow
 					'''
@@ -329,7 +323,7 @@ Mods: {
 					'''
 					Summons a Hellfire Serpent in Hell by making it think you are holding one of its children
 					'An imitation egg that Hellfire Serpents lay.
-					Might not be apt for consumption'
+					Might not be apt for consumption.'
 					Not consumable
 					'''
 			}
@@ -343,8 +337,8 @@ Mods: {
 				DisplayName: Hellfire Ring
 				Tooltip:
 					'''
-					Immunity to lava and some high temperature buffs
-					You deal 30% increased damage to foes while in lava
+					Immunity to lava and some high temperature buffs.
+					You deal 30% increased damage to foes while in lava.
 					If visibility is turned on, standing on the surface of water causes it to turn into obsidian
 					'''
 			}
@@ -630,7 +624,7 @@ Mods: {
 				DisplayName: Goblin Dagger
 				Tooltip:
 					'''
-					'Simple daggers are used by the lowest rank of goblins, the thief goblin.
+					'A simple dagger used by the lowest rank of goblins, the thief goblin.
 					Even though they are weak, in numbers they are incredible strong and fast
 					attacking, do not understimate them.'
 					'''
@@ -828,7 +822,7 @@ Mods: {
 
 			Gelbow: {
 				DisplayName: Gel bow
-				Tooltip: Can be ignited with flaming arrows, this will destroy the item after a few seconds
+				Tooltip: Can be ignited with flaming arrows to deal extra damage, this will destroy the item after a few seconds
 			}
 
 			仙人掌弓: {
@@ -893,7 +887,7 @@ Mods: {
 
 			GoblinBow: {
 				DisplayName: Goblin bow
-				Tooltip: Wooden bows used by goblin tribe archers seem to be rather common.
+				Tooltip: Wooden bows used by goblin tribe archers, a rather common item.
 			}
 
 			手持大炮: {
@@ -1012,7 +1006,7 @@ Mods: {
 
 			ShadowFlame: {
 				DisplayName: Shadowflame
-				Tooltip: The mysterious flame mastered by goblins is stronger than ordinary flames
+				Tooltip: This mysterious flame mastered by goblins is stronger than ordinary flames
 			}
 
 			ShadowFlameStaffItem: {
@@ -1107,14 +1101,14 @@ Mods: {
 				DisplayName: Wooden shield
 				Tooltip:
 					'''
-					10% chance to parry
+					10% increased chance to parry.
 					The damage taken after parrying is halved
 					'''
 			}
 
 			生命呼唤: {
 				DisplayName: Forest Wooden Summoning staff
-				Tooltip: There can only be one crystal at a time
+				Tooltip: There can only be one Crystal at a time
 			}
 
 			生命木剑: {
@@ -1148,7 +1142,7 @@ Mods: {
 			}
 
 			升级: {
-				DisplayName: UP
+				DisplayName: LVL UP
 				Tooltip: Level up the adventurer
 			}
 
@@ -1212,10 +1206,10 @@ Mods: {
 			}
 
 			FanTowerItem: {
-				DisplayName: Fan tower
+				DisplayName: Fan Tower
 				Tooltip:
 					'''
-					Summons a fan tower to attack your foes
+					Summons a Fan Tower to attack your foes
 					'He's from a faraway place, defending the radish!'
 					'''
 			}
@@ -1257,7 +1251,11 @@ Mods: {
 
 			NOCozyCabin: {
 				DisplayName: NO Cozy Cabin
-				Tooltip: Creates a house without a roof, a single room
+				Tooltip:
+					'''
+					Creates a house without a roof, a single room
+					'You monster...'
+					'''
 			}
 
 			DeadLeavesSpiritItem: {
@@ -1269,8 +1267,8 @@ Mods: {
 				DisplayName: Enchanted Voodoo doll
 				Tooltip:
 					'''
-					Skill: Summon a voodoo doll that will lock onto the foe that you are hovering on with your mouse
-					       Hurting the Voodoo Doll will deal the same damage dealt to it to your enemy
+					Skill: Summon a voodoo doll that will lock onto the foe that you are hovering on with your mouse.
+					       Hurting the Voodoo Doll will deal the same damage dealt to your linked enemy
 					'''
 			}
 
@@ -1321,12 +1319,12 @@ Mods: {
 
 			地狱葫芦: {
 				DisplayName: Hell Gourd
-				Tooltip: Skill: Teleport the Talisman near the mouse and spray a wall of flames towards the mouse position
+				Tooltip: Skill: Teleport the talisman near the mouse and spray a wall of flames towards the mouse position
 			}
 
 			奇异的云: {
 				DisplayName: Bizarre clouds
-				Tooltip: Skill: Summon a cloud at the bottom of your feet that you can step on
+				Tooltip: Skill: Summon a cloud at the bottom of your feet that you can step on, this lasts a brief moment
 			}
 
 			永恒冰晶: {
@@ -1336,171 +1334,171 @@ Mods: {
 
 			玉净瓶: {
 				DisplayName: Purifying Bottles
-				Tooltip: Skill: Purifies most of the player's debuffs, heals the player's health and regenerates mana (quadrupled mana recovery)
+				Tooltip: Skill: Purifies most of the player's debuffs, heals the player and quadruples mana regeneration
 			}
 
 			StrengthenPlatformItem: {
-				DisplayName: Strengthen Platform
+				DisplayName: Strengthening Platform
 				Tooltip: ""
 			}
 
 			晶凝书柜: {
-				DisplayName: Solidified crystal Bookcases
+				DisplayName: Solidified Crystal Bookcases
 				Tooltip: ""
 			}
 
 			晶凝吊灯: {
-				DisplayName: Solidified crystal Chandelier
+				DisplayName: Solidified Crystal Chandelier
 				Tooltip: ""
 			}
 
 			晶凝工作台: {
-				DisplayName: Solidified crystal Work Bench
+				DisplayName: Solidified Crystal Work Bench
 				Tooltip: ""
 			}
 
 			晶凝平台: {
-				DisplayName: Solidified crystal Platform
+				DisplayName: Solidified Crystal Platform
 				Tooltip: ""
 			}
 
 			晶凝床: {
-				DisplayName: Solidified crystal bed
+				DisplayName: Solidified Crystal bed
 				Tooltip: ""
 			}
 
 			晶凝心灯: {
-				DisplayName: Solidified crystal Heart lamp
+				DisplayName: Solidified Crystal Heart lamp
 				Tooltip: ""
 			}
 
 			晶凝桌: {
-				DisplayName: Solidified crystal Table
+				DisplayName: Solidified Crystal Table
 				Tooltip: ""
 			}
 
 			晶凝梳妆台: {
-				DisplayName: Solidified crystal Dresser
+				DisplayName: Solidified Crystal Dresser
 				Tooltip: ""
 			}
 
 			晶凝椅: {
-				DisplayName: Solidified crystal bed
+				DisplayName: Solidified Crystal bed
 				Tooltip: ""
 			}
 
 			晶凝水槽: {
-				DisplayName: Solidified crystal sink
+				DisplayName: Solidified Crystal sink
 				Tooltip: ""
 			}
 
 			晶凝沙发: {
-				DisplayName: Solidified crystal Sofa
+				DisplayName: Solidified Crystal Sofa
 				Tooltip: ""
 			}
 
 			晶凝浴缸: {
-				DisplayName: Solidified crystal bathtub
+				DisplayName: Solidified Crystal bathtub
 				Tooltip: ""
 			}
 
 			晶凝灯笼: {
-				DisplayName: Solidified crystal Lantern
+				DisplayName: Solidified Crystal Lantern
 				Tooltip: ""
 			}
 
 			晶凝烛台: {
-				DisplayName: Solidified crystal Candelabra
+				DisplayName: Solidified Crystal Candelabra
 				Tooltip: ""
 			}
 
 			晶凝石块: {
-				DisplayName: Solidified crystal Stones
+				DisplayName: Solidified Crystal Stones
 				Tooltip: ""
 			}
 
 			晶凝箱: {
-				DisplayName: Solidified crystal Chest
+				DisplayName: Solidified Crystal Chest
 				Tooltip: ""
 			}
 
 			晶凝蜡烛: {
-				DisplayName: Solidified crystal Candle
+				DisplayName: Solidified Crystal Candle
 				Tooltip: ""
 			}
 
 			晶凝钟: {
-				DisplayName: Solidified crystal Clock
+				DisplayName: Solidified Crystal Clock
 				Tooltip: ""
 			}
 
 			晶凝钢琴: {
-				DisplayName: Solidified crystal Piano
+				DisplayName: Solidified Crystal Piano
 				Tooltip: ""
 			}
 
 			晶凝门: {
-				DisplayName: Solidified crystal Door
+				DisplayName: Solidified Crystal Door
 				Tooltip: ""
 			}
 
 			晶凝马桶: {
-				DisplayName: Solidified crystal Toilet
+				DisplayName: Solidified Crystal Toilet
 				Tooltip: ""
 			}
 
 			木水壶: {
-				DisplayName: Wooden kettle
+				DisplayName: Wooden Kettle
 				Tooltip: ""
 			}
 
 			铜水壶: {
-				DisplayName: Copper kettle
+				DisplayName: Copper Kettle
 				Tooltip: ""
 			}
 
 			锡水壶: {
-				DisplayName: Tin kettle
+				DisplayName: Tin Kettle
 				Tooltip: ""
 			}
 
 			铁水壶: {
-				DisplayName: Iron kettle
+				DisplayName: Iron Kettle
 				Tooltip: ""
 			}
 
 			铅水壶: {
-				DisplayName: Lead kettle
+				DisplayName: Lead Kettle
 				Tooltip: ""
 			}
 
 			银水壶: {
-				DisplayName: Silver kettle
+				DisplayName: Silver Kettle
 				Tooltip: ""
 			}
 
 			钨水壶: {
-				DisplayName: Tungsten kettle
+				DisplayName: Tungsten Kettle
 				Tooltip: ""
 			}
 
 			金水壶: {
-				DisplayName: Gold kettle
+				DisplayName: Gold Kettle
 				Tooltip: ""
 			}
 
 			铂金水壶: {
-				DisplayName: Platinum kettle
+				DisplayName: Platinum Kettle
 				Tooltip: ""
 			}
 
 			巨大的胡萝卜种子: {
-				DisplayName: Huge carrot seeds
+				DisplayName: Huge Carrot Seeds
 				Tooltip: ""
 			}
 
 			玉米种子: {
-				DisplayName: Maize seeds
+				DisplayName: Maize Seeds
 				Tooltip: ""
 			}
 
@@ -1510,7 +1508,7 @@ Mods: {
 			}
 
 			生菜种子: {
-				DisplayName: Lettuce seeds
+				DisplayName: Lettuce Seeds
 				Tooltip: ""
 			}
 
@@ -1520,7 +1518,7 @@ Mods: {
 			}
 
 			胡萝卜种子: {
-				DisplayName: Carrot seeds
+				DisplayName: Carrot Seeds
 				Tooltip: ""
 			}
 
@@ -1530,7 +1528,7 @@ Mods: {
 			}
 
 			草莓种子: {
-				DisplayName: Strawberry seeds
+				DisplayName: Strawberry Seeds
 				Tooltip: ""
 			}
 
@@ -1540,17 +1538,17 @@ Mods: {
 			}
 
 			荧光果种子: {
-				DisplayName: Fluorescent fruit seeds
+				DisplayName: Fluorescent Fruit Seeds
 				Tooltip: ""
 			}
 
 			荧光果: {
-				DisplayName: Fluorescent fruit
+				DisplayName: Fluorescent Fruit
 				Tooltip: ""
 			}
 
 			洞穴萝卜: {
-				DisplayName: Cave turnips
+				DisplayName: Cave Turnips
 				Tooltip: ""
 			}
 
@@ -1610,13 +1608,13 @@ Mods: {
 			}
 
 			仙人掌杖: {
-				DisplayName: Cactus staff
+				DisplayName: Cactus Staff
 				Tooltip: ""
 			}
 
 			海爵之咬: {
-				DisplayName: Sea Lord Bites
-				Tooltip: '''"Legend has it that it was made from the teeth of the original Duke of the Sea"'''
+				DisplayName: Sea Lord's Fang
+				Tooltip: "'Legend has it that this sword was made from the teeth of the original Duke Fishron'"
 			}
 
 			石魔弓: {
@@ -1640,38 +1638,38 @@ Mods: {
 			#荆棘法杖
 			NettleBurst:
 				'''
-				When used, a flying magic array is generated on the soles of the feet after a short DDGlow
+				When used, a flying magic array is generated on the soles of the feet after a short DDGlow.
 				Use the right button to summon thorns at the mouse position to attack
 				'''
 			#魔法导弹
 			MagicMissile:
 				'''
-				Summon one controllable missile, followed by 3 missiles that surround you
+				Summons one controllable missile, followed by 3 missiles that surround you.
 				The right button will let all missiles track the enemy
 				'''
 			#烈焰火鞭
 			Flamelash:
 				'''
-				Summon a controllable fireball, followed by 3 fireballs surrounding the mouse
+				Summons a controllable fireball, followed by 3 fireballs surrounding the mouse.
 				The center fireball disappears or the right button will cause all fireballs to track enemies
 				'''
 			#彩虹法杖
 			RainbowRod:
 				'''
-				Summon a controllable rainbow beam, followed by 6 rainbow beams that rotate around the player
+				Summons a controllable rainbow beam, followed by 6 rainbow beams that rotate around the player.
 				Right-clicking will make all rainbow beams track enemies
 				'''
 			#水晶蛇
-			CrystalSerpent: Summon the Three-Headed Serpent and right-click to shoot an exploding crystal bullet
+			CrystalSerpent: Summons the Three-Headed Serpent, Right-Click to shoot an exploding Crystal bullet
 			#爬藤怪法杖
-			ClingerStaff: Summon a wall of cursed fire to protect you, right-click to draw a wall of cursed fire at the mouse position
+			ClingerStaff: Summons a wall of cursed fire to protect you, Right-Click to draw a wall of cursed fire at the mouse position
 			#袋子提示
 			Bags: Right Click to open
 			Bags2: Press the smart cursor to quickly view what the bag is holding
 			#抽奖提示
 			抽奖:
 				'''
-				Press the smart cursor to see the probability of the you can get
+				Press the smart cursor to see the probability of what you can get.
 				Animations can also be skipped
 				'''
 			#法宝
@@ -1710,7 +1708,7 @@ Mods: {
 			#乌木套
 			Ebonwood:
 				'''
-				Increases Defense by 2, 
+				Increases Defense by 2.
 				Additionally, when in the Corruption: 
 				    Adds an additional 2 defense, 4% damage and 4% damage Reduction
 				'''
@@ -1733,7 +1731,7 @@ Mods: {
 			#棕榈木套
 			PalmWood:
 				'''
-				Increases defense by 2, 
+				Increases defense by 2.
 				Additionally, when in the Desert:
 				    Adds an additional 2 defense and increases movement speed by 10%
 				Or when in the Beach:
@@ -1742,7 +1740,7 @@ Mods: {
 			#珍珠木套
 			Pearlwood:
 				'''
-				Increases defense by 12
+				Increases defense by 12.
 				Additionally, when in the Hallow:
 				    Adds an additional 10 defense and increases damage by 12%
 				Or when in the Corruption/Crimson:
@@ -1751,14 +1749,14 @@ Mods: {
 			#猩红套
 			Crimson:
 				'''
-				Greatly increases the speed of life regeneration
+				Greatly increases the speed of life regeneration.
 				If you take damage, you gain a buff for a short time. The buff time is related to damage.
 				During the buff, damage is increased by 10% and can steal the life of nearby enemies
 				'''
 			#暗影套
 			Shadow:
 				'''
-				50% increased Movement Speed and 15% increased Dodge Chance while moving
+				50% increased Movement Speed and 15% increased Dodge Chance while moving.
 				50% increased speed at night
 				'Dark as the night, omnipotent as darkness'
 				'''
@@ -1779,7 +1777,7 @@ Mods: {
 			#魔星套
 			MagicStar: Increases Max Summon and 25 bonus mana per 200 mana
 			#碎心套
-			HeartBreaker: Increases life by 20. When you attack an enemy, there is a chance to generate a broken heart. Picking it up will restore some health.
+			HeartBreaker: Increases life by 20. When you attack an enemy, there is a chance to generate a broken heart. Picking it up will restore some health
 			#荧光蘑菇套
 			GlowingMushroomSet: Increase the max mana by 50 and restore an additional 5 mana points per second
 		}
