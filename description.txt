@@ -1,1 +1,16 @@
-Corrects most, if not all, typos in the OG translation for DawnMod:Dormant.
+[h1] DawnMod:Dormant English Translation [/h1]
+[hr][/hr]
+An unofficial revision of the English translations provided by DawnMod:Dormant.
+
+[h1] Source Code and License [/h1]
+[hr][/hr]
+You can find the source code and license in this mod's [url=https://github.com/Levviata/DDmodEnglishTranslation] GitHub repo[/url]
+
+[i](TL;DR: MIT license, you are free to do whatever the hell you want with this mod, this includes translating this language pack to another language, etc.)[/i]
+
+[h1] Notes [/h1]
+[hr][/hr][list]
+    [*]These translations might be merged with the mod itself if the main developer of DawnMod:Dormant approves it, this mod might just simply disappeared which means it has probably implemented itself into the official mod.
+[/list]
+
+[quote=tModLoader]Developed By Levviata[/quote]

@@ -1306,9 +1306,9 @@ Mods: {
 				DisplayName: Shadow Necklace
 				Tooltip:
 					'''
-					Skill: Leave the talisman in place, the talisman will shoot homing shadowflame projectiles at foes.
-					       After 20 seconds or after pressing your skill keybind, you will instantly appear at its lo-
-					       cation and a burst of 10 homing shadowflame projectiles will be expeled from the necklace
+					Skill: Leave the talisman in place, the talisman will shoot friendly homing shadowflame projectiles at intervals.
+					       After 20 seconds or after pressing your skill keybind, you will instantly appear at its location and a 
+						   burst of 10 homing shadowflame projectiles will be expeled from the necklace
 					'''
 			}
 

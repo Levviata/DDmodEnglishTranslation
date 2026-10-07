@@ -43,7 +43,7 @@ Mods: {
 
 			Frozen: {
 				DisplayName: Frozen
-				Description: You feel slow to move
+				Description: You feel too slow to move
 			}
 
 			SpecialAttackCD: {
@@ -113,7 +113,7 @@ Mods: {
 
 			迅捷之力: {
 				DisplayName: The Power of Speed
-				Description: 20% increased movement speed and 10% attack speed
+				Description: 20% increased movement speed and 10% increased attack speed
 			}
 
 			食物buff: {
@@ -132,8 +132,8 @@ Mods: {
 			}
 
 			ChildOfTheStarsBuff: {
-				DisplayName: Sons of the Mana Guardian
-				Description: The Sons of the Mana Guardian are following you
+				DisplayName: Sons of the Star Guardian
+				Description: The Sons of the Star Guardian are following you
 			}
 
 			Devil_SlimeBuff: {
@@ -153,7 +153,7 @@ Mods: {
 
 			狱火蛇之子Buff: {
 				DisplayName: Son of the Serpent of Hellfire
-				Description: This little guy has taken you as his leader
+				Description: This little guy has taken you as his mother
 			}
 
 			stupidCatSlimeBuff: {
@@ -222,7 +222,7 @@ Mods: {
 			}
 
 			ShadowImpBuff: {
-				DisplayName: Shadow Imp
+				DisplayName: Shadowflame Imp
 				Description: This infernal imp infused with shadowflame is at your command
 			}
 

@@ -1,6 +1,6 @@
 displayName = DawnMod:Dormant English Translation
 author = Levviata
-version = 1.2
+version = 1.2.1
 modReferences = DDmod
 translationMod = true
 sortAfter = DDmod
